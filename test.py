@@ -5,9 +5,6 @@ import streamlit as st
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 
-# Set theme to light mode
-st.set_theme('light')
-
 # Set Streamlit to wide mode
 st.set_page_config(layout="wide")
 
