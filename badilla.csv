@@ -9,7 +9,7 @@ Mark,10/9/2023,1:00PM,Class,Class,Tired,Low,120
 Mark,10/9/2023,3:00PM,Class,Class,Exhausted,Low,90
 Mark,10/9/2023,4:30PM,Travel back home,Commuting,Relieved,Low,30
 Mark,10/9/2023,5:00PM,Dinner,Eating,Happy,Medium,60
-Mark,10/9/2023,6:00PM,Do assignments,Work,Stressed,High,150
+Mark,10/9/2023,6:00PM,Do assignments,Work/Acads,Stressed,High,150
 Mark,10/9/2023,8:30PM,Watch Netflix,Leisure,Entertained,Medium,90
 Mark,10/9/2023,10:00PM,Sleeping,Sleeping,Good,High,540
 Mark,10/10/2023,7:00AM,Breakfast,Eating,Good,Medium,30
@@ -26,21 +26,21 @@ Mark,10/10/2023,6:00PM,Travel to home,Commuting,Relieved,Low,30
 Mark,10/10/2023,6:30PM,Unwind,Leisure,Calm,Medium,15
 Mark,10/10/2023,6:45PM,Watch Netflix,Leisure,Entertained,Medium,45
 Mark,10/10/2023,7:30PM,Dinner,Eating,Happy,Medium,30
-Mark,10/10/2023,8:00PM,Do assignments,Work,Stressed,High,120
+Mark,10/10/2023,8:00PM,Do assignments,Work/Acads,Stressed,High,120
 Mark,10/10/2023,10:00PM,Watch Netflix,Leisure,Entertained,Medium,90
 Mark,10/10/2023,11:30PM,Sleeping,Sleeping,Good,High,330
-Mark,10/11/2023,5:00AM,Fix mom computer,Work,Productive,High,180
+Mark,10/11/2023,5:00AM,Fix mom computer,Work/Acads,Productive,High,180
 Mark,10/11/2023,8:00AM,Breakfast,Eating,Content,Medium,20
 Mark,10/11/2023,8:20AM,Social Media,Leisure,Amused,Low,70
 Mark,10/11/2023,9:30AM,Sleeping,Sleeping,Great,High,90
 Mark,10/11/2023,11:00AM,Bath,Personal hygiene,Refreshed,Medium,10
 Mark,10/11/2023,11:10AM,Lunch,Eating,Satisfied,Medium,50
-Mark,10/11/2023,12:00PM,Do assignments,Work,Focused,High,180
+Mark,10/11/2023,12:00PM,Do assignments,Work/Acads,Focused,High,180
 Mark,10/11/2023,3:00PM,Social media,Leisure,Happy,Low,60
 Mark,10/11/2023,4:00PM,Watch Netflix,Leisure,Entertained,Medium,120
 Mark,10/11/2023,6:00PM,Dinner,Eating,Content,Medium,60
 Mark,10/11/2023,7:00PM,Bath,Personal hygiene,Relaxed,Medium,30
-Mark,10/11/2023,7:30PM,Do assignments,Work,Focused,High,90
+Mark,10/11/2023,7:30PM,Do assignments,Work/Acads,Focused,High,90
 Mark,10/11/2023,9:00PM,Sleeping,Sleeping,Good,High,420
 Mark,10/12/2023,6:00AM,Studying,Class,Determined,High,60
 Mark,10/12/2023,7:00AM,Breakfast,Eating,Content,Medium,30
@@ -57,14 +57,14 @@ Mark,10/12/2023,6:00PM,Travel to home,Commuting,Relieved,Low,30
 Mark,10/12/2023,6:30PM,Unwind,Leisure,Calm,Medium,15
 Mark,10/12/2023,6:45PM,Social Media,Leisure,Happy,Low,45
 Mark,10/12/2023,7:30PM,Dinner,Eating,Content,Medium,30
-Mark,10/12/2023,8:00PM,Do assignments,Work,Stressed,High,120
+Mark,10/12/2023,8:00PM,Do assignments,Work/Acads,Stressed,High,120
 Mark,10/12/2023,10:00PM,Social Media,Leisure,OK,Low,90
 Mark,10/12/2023,11:30PM,Sleeping,Sleeping,Good,High,390
 Mark,10/13/2023,6:00AM,Breakfast,Eating,Content,Medium,60
 Mark,10/13/2023,7:00AM,Travel to school,Commuting,OK,Low,30
 Mark,10/13/2023,7:30AM,Class,Class,Bored,Low,150
 Mark,10/13/2023,10:00AM,Social Media,Leisure,Amused,Low,30
-Mark,10/13/2023,10:30AM,Do assignments,Work,Focused,High,90
+Mark,10/13/2023,10:30AM,Do assignments,Work/Acads,Focused,High,90
 Mark,10/13/2023,12:00PM,Lunch,Eating,Satisfied,Medium,30
 Mark,10/13/2023,12:30PM,Social Media,Leisure,Happy,Low,30
 Mark,10/13/2023,1:00PM,Class,Class,Tired,Low,120
@@ -73,7 +73,7 @@ Mark,10/13/2023,4:30PM,Travel to home,Commuting,Relieved,Low,60
 Mark,10/13/2023,5:30PM,Unwind,Leisure,Calm,Medium,30
 Mark,10/13/2023,6:00PM,Watch Netflix,Leisure,Entertained,Medium,90
 Mark,10/13/2023,7:30PM,Dinner,Eating,Content,Medium,30
-Mark,10/13/2023,8:00PM,Do assignments,Work,Stressed,High,150
+Mark,10/13/2023,8:00PM,Do assignments,Work/Acads,Stressed,High,150
 Mark,10/13/2023,10:30PM,Sleeping,Sleeping,Good,High,510
 Mark,10/14/2023,7:00AM,Breakfast,Eating,Content,Medium,30
 Mark,10/14/2023,7:30AM,Class,Class,Bored,Low,150
@@ -86,7 +86,7 @@ Mark,10/14/2023,3:00PM,Snack break,Eating,Content,Medium,30
 Mark,10/14/2023,3:30PM,Class,Class,Tired,Low,180
 Mark,10/14/2023,6:30PM,Travel to home,Commuting,Relieved,Low,30
 Mark,10/14/2023,7:00PM,Dinner,Eating,Content,Medium,30
-Mark,10/14/2023,7:30PM,Do assignments,Work,Focused,High,180
+Mark,10/14/2023,7:30PM,Do assignments,Work/Acads,Focused,High,180
 Mark,10/14/2023,10:30PM,Sleeping,Sleeping,Good,High,570
 Mark,10/15/2023,8:00AM,Breakfast,Eating,Content,Medium,90
 Mark,10/15/2023,9:30AM,Bath,Personal hygiene,Refreshed,Medium,30
@@ -113,7 +113,7 @@ Mark,10/16/2023,6:00PM,Travel to home,Commuting,Tired,Low,30
 Mark,10/16/2023,6:30PM,Unwind,Leisure,Calm,Medium,15
 Mark,10/16/2023,6:45PM,Watch Netflix,Leisure,Entertained,Medium,45
 Mark,10/16/2023,7:30PM,Dinner,Eating,Happy,Medium,30
-Mark,10/16/2023,8:00PM,Do assignments,Work,Stressed,High,120
+Mark,10/16/2023,8:00PM,Do assignments,Work/Acads,Stressed,High,120
 Mark,10/16/2023,10:00PM,Social Media,Leisure,Amused,Low,90
 Mark,10/16/2023,11:30PM,Sleeping,Sleeping,Good,High,390
 Mark,10/17/2023,6:00AM,Breakfast,Eating,Content,Medium,30
@@ -129,21 +129,21 @@ Mark,10/17/2023,3:30PM,Class,Class,Exhausted,Low,150
 Mark,10/17/2023,6:00PM,Travel to home,Commuting,Tired,Low,30
 Mark,10/17/2023,6:30PM,Unwind,Leisure,Calm,Medium,30
 Mark,10/17/2023,7:00PM,Dinner,Eating,Happy,Medium,30
-Mark,10/17/2023,7:30PM,Do assignments,Work,Stressed,High,90
+Mark,10/17/2023,7:30PM,Do assignments,Work/Acads,Stressed,High,90
 Mark,10/17/2023,9:00PM,Watch Netflix,Leisure,Entertained,Medium,90
 Mark,10/17/2023,10:30PM,Sleeping,Sleeping,Good,High,450
 Mark,10/18/2023,6:00AM,Breakfast,Eating,Content,Medium,30
 Mark,10/18/2023,6:30AM,Studying,Class,Focused,High,60
 Mark,10/18/2023,7:30AM,Social Media,Leisure,Amused,Low,60
 Mark,10/18/2023,8:30AM,Bath,Personal hygiene,Refreshed,Medium,15
-Mark,10/18/2023,8:45AM,Do assignments,Work,Productive,High,195
+Mark,10/18/2023,8:45AM,Do assignments,Work/Acads,Productive,High,195
 Mark,10/18/2023,12:00PM,Lunch,Eating,Satisfied,Medium,60
 Mark,10/18/2023,1:00PM,Class,Class,Curious,High,60
 Mark,10/18/2023,2:00PM,Snack break,Eating,Content,Medium,15
-Mark,10/18/2023,2:15PM,Do assignments,Work,Productive,High,105
+Mark,10/18/2023,2:15PM,Do assignments,Work/Acads,Productive,High,105
 Mark,10/18/2023,4:00PM,Unwind,Leisure,Calm,Medium,60
 Mark,10/18/2023,5:00PM,Dinner,Eating,Happy,Medium,30
-Mark,10/18/2023,5:30PM,Do assignments,Work,Stressed,High,90
+Mark,10/18/2023,5:30PM,Do assignments,Work/Acads,Stressed,High,90
 Mark,10/18/2023,7:00PM,Watch Netflix,Leisure,Entertained,Medium,210
 Mark,10/18/2023,10:30PM,Sleeping,Sleeping,Good,High,450
 Mark,10/19/2023,6:00AM,Breakfast,Eating,Content,Medium,30
@@ -159,7 +159,7 @@ Mark,10/19/2023,3:30PM,Class,Class,Exhausted,Low,150
 Mark,10/19/2023,6:00PM,Travel to home,Commuting,Tired,Low,30
 Mark,10/19/2023,6:30PM,Unwind,Leisure,Calm,Medium,30
 Mark,10/19/2023,7:00PM,Dinner,Eating,Happy,Medium,30
-Mark,10/19/2023,7:30PM,Do assignments,Work,Stressed,High,90
+Mark,10/19/2023,7:30PM,Do assignments,Work/Acads,Stressed,High,90
 Mark,10/19/2023,9:00PM,Watch Netflix,Leisure,Entertained,Medium,90
 Mark,10/19/2023,10:30PM,Sleeping,Sleeping,Good,High,450
 Mark,10/20/2023,6:00AM,Breakfast,Eating,Content,Medium,60
@@ -167,7 +167,7 @@ Mark,10/20/2023,7:00AM,Travel to school,Commuting,Relaxed,Low,30
 Mark,10/20/2023,7:30AM,Class,Class,Interested,High,150
 Mark,10/20/2023,10:00AM,Social Media,Leisure,Amused,Low,30
 Mark,10/20/2023,10:30AM,Lunch,Eating,Satisfied,Medium,135
-Mark,10/20/2023,12:45PM,Do assignment,Work,Productive,High,15
+Mark,10/20/2023,12:45PM,Do assignment,Work/Acads,Productive,High,15
 Mark,10/20/2023,1:00PM,Class,Class,Curious,High,120
 Mark,10/20/2023,3:00PM,Class,Class,Exhausted,Low,90
 Mark,10/20/2023,4:30PM,Snack break,Eating,Content,Medium,30
@@ -175,30 +175,30 @@ Mark,10/20/2023,5:00PM,Travel to home,Commuting,Tired,Low,30
 Mark,10/20/2023,5:30PM,Unwind,Leisure,Calm,Medium,30
 Mark,10/20/2023,6:00PM,Watch Netflix,Leisure,Entertained,Medium,90
 Mark,10/20/2023,7:30PM,Dinner,Eating,Happy,Medium,30
-Mark,10/20/2023,8:00PM,Do assignments,Work,Stressed,High,150
+Mark,10/20/2023,8:00PM,Do assignments,Work/Acads,Stressed,High,150
 Mark,10/20/2023,10:30PM,Sleeping,Sleeping,Good,High,570
 Mark,10/21/2023,8:00AM,Breakfast,Eating,Content,Medium,30
-Mark,10/21/2023,8:30AM,Wash clothes,Work,Productive,Medium,90
+Mark,10/21/2023,8:30AM,Wash clothes,Work/Acads,Productive,Medium,90
 Mark,10/21/2023,10:00AM,Class,Class,Interested,High,120
-Mark,10/21/2023,12:00PM,Do assignments,Work,Productive,High,120
+Mark,10/21/2023,12:00PM,Do assignments,Work/Acads,Productive,High,120
 Mark,10/21/2023,2:00PM,Snack break,Eating,Content,Medium,15
-Mark,10/21/2023,2:15PM,Do assignments,Work,Productive,High,105
+Mark,10/21/2023,2:15PM,Do assignments,Work/Acads,Productive,High,105
 Mark,10/21/2023,4:00PM,Watch Netflix,Leisure,Entertained,Medium,90
 Mark,10/21/2023,5:30PM,Dinner,Eating,Happy,Medium,90
-Mark,10/21/2023,7:00PM,Do assignments,Work,Stressed,High,90
+Mark,10/21/2023,7:00PM,Do assignments,Work/Acads,Stressed,High,90
 Mark,10/21/2023,8:30PM,Watch Netflix,Leisure,Entertained,Medium,120
 Mark,10/21/2023,10:30PM,Sleeping,Sleeping,Good,High,570
 Mark,10/22/2023,8:00AM,Breakfast,Eating,Content,Medium,30
 Mark,10/22/2023,8:30AM,Social Media,Leisure,Amused,Low,60
 Mark,10/22/2023,9:30AM,Bath,Personal hygiene,Refreshed,Medium,15
-Mark,10/22/2023,9:45AM,Do assignments,Work,Productive,High,135
+Mark,10/22/2023,9:45AM,Do assignments,Work/Acads,Productive,High,135
 Mark,10/22/2023,12:00PM,Lunch,Eating,Satisfied,Medium,30
 Mark,10/22/2023,12:30PM,Karaoke with friends,Others,Happy,High,210
 Mark,10/22/2023,4:00PM,Snack break with friends,Eating,Content,Medium,30
 Mark,10/22/2023,4:30PM,Travel to home,Commuting,Relaxed,Low,30
 Mark,10/22/2023,5:00PM,Unwind,Leisure,Calm,Medium,30
 Mark,10/22/2023,5:30PM,Dinner,Eating,Happy,Medium,30
-Mark,10/22/2023,6:00PM,Do assignments,Work,Stressed,High,90
+Mark,10/22/2023,6:00PM,Do assignments,Work/Acads,Stressed,High,90
 Mark,10/22/2023,7:30PM,Watch Netflix,Leisure,Entertained,Medium,90
 Mark,10/22/2023,9:00PM,Sleeping,Sleeping,Good,High,420
 Mark,10/23/2023,6:00AM,Breakfast,Eating,Content,Medium,30
@@ -212,7 +212,7 @@ Mark,10/23/2023,4:30PM,Snack break,Eating,Content,Medium,60
 Mark,10/23/2023,5:30PM,Travel to home,Commuting,Tired,Low,30
 Mark,10/23/2023,6:00PM,Unwind,Leisure,Calm,Medium,60
 Mark,10/23/2023,7:00PM,Dinner,Eating,Happy,Medium,30
-Mark,10/23/2023,7:30PM,Do assignments,Work,Stressed,High,90
+Mark,10/23/2023,7:30PM,Do assignments,Work/Acads,Stressed,High,90
 Mark,10/23/2023,9:00PM,Watch Netflix,Leisure,Entertained,Medium,90
 Mark,10/23/2023,10:30PM,Sleeping,Sleeping,Good,High,390
 Mark,10/24/2023,5:00AM,Breakfast,Eating,Content,Medium,30
