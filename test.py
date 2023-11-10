@@ -38,7 +38,7 @@ with col1:
       padding: 20px;
       margin: 10px;
     '>
-    <p style='text-align: center; font-weight: bold; color: white; color: white'>How Much Time Do We Spend on Different Activities Every Day?</p>
+    <p style='text-align: center; font-weight: bold; color: white; color: white'>How Much Time Do We Spend on Different Activities Every Day? (In Hours)</p>
     """
     , unsafe_allow_html=True
   )
@@ -90,6 +90,7 @@ with col3:
   most_common = most_common.sort_values(by="Count", ascending=False)
   fig = px.bar(most_common, x="Category", y="Count", color="How they felt")
   fig.update_layout(autosize=True, width=400, height=400)
+  most_common = most_common.sort_values(by="Count", ascending=False) # sort in descending order
   st.plotly_chart(fig)
 
 # Define a function to create a word cloud from a dataframe
