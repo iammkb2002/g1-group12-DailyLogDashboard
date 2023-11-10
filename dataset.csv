@@ -1,0 +1,619 @@
+Person,Date,Time,Activity,Category,How they felt,Value to the person,Duration in minutes
+Mark,10/9/2023,12:00AM,Sleeping,Sleeping,Good,High,390.0
+Mark,10/9/2023,6:30AM,Bath,Hygiene,Refreshed,Medium,30.0
+Mark,10/9/2023,7:00AM,Travel To School,Commuting,Ok,Low,30.0
+Mark,10/9/2023,7:30AM,Class,Class,Bored,Low,150.0
+Mark,10/9/2023,10:00AM,Breakfast,Eating,Hungry,Medium,90.0
+Mark,10/9/2023,11:30AM,Lunch,Eating,Satisfied,Medium,90.0
+Mark,10/9/2023,1:00PM,Class,Class,Tired,Low,120.0
+Mark,10/9/2023,3:00PM,Class,Class,Exhausted,Low,90.0
+Mark,10/9/2023,4:30PM,Travel Back Home,Commuting,Relieved,Low,30.0
+Mark,10/9/2023,5:00PM,Dinner,Eating,Happy,Medium,60.0
+Mark,10/9/2023,6:00PM,Do Assignments,Work,Stressed,High,150.0
+Mark,10/9/2023,8:30PM,Watch Netflix,Leisure,Entertained,Medium,90.0
+Mark,10/9/2023,10:00PM,Sleeping,Sleeping,Good,High,540.0
+Mark,10/10/2023,7:00AM,Breakfast,Eating,Good,Medium,30.0
+Mark,10/10/2023,7:30AM,Class,Class,Bored,Low,150.0
+Mark,10/10/2023,10:00AM,Social Media,Leisure,Amused,Low,30.0
+Mark,10/10/2023,10:30AM,Class,Class,Tired,Low,90.0
+Mark,10/10/2023,12:00PM,Lunch,Eating,Satisfied,Medium,30.0
+Mark,10/10/2023,12:30PM,Bath,Hygiene,Refreshed,Medium,15.0
+Mark,10/10/2023,12:45PM,Travel To School,Commuting,Ok,Low,15.0
+Mark,10/10/2023,1:00PM,Class,Class,Tired,Low,120.0
+Mark,10/10/2023,3:00PM,Prep For Next Class,Class,Anxious,High,30.0
+Mark,10/10/2023,3:30PM,Class,Class,Exhausted,Low,150.0
+Mark,10/10/2023,6:00PM,Travel To Home,Commuting,Relieved,Low,30.0
+Mark,10/10/2023,6:30PM,Unwind,Leisure,Calm,Medium,15.0
+Mark,10/10/2023,6:45PM,Watch Netflix,Leisure,Entertained,Medium,45.0
+Mark,10/10/2023,7:30PM,Dinner,Eating,Happy,Medium,30.0
+Mark,10/10/2023,8:00PM,Do Assignments,Work,Stressed,High,120.0
+Mark,10/10/2023,10:00PM,Watch Netflix,Leisure,Entertained,Medium,90.0
+Mark,10/10/2023,11:30PM,Sleeping,Sleeping,Good,High,330.0
+Mark,10/11/2023,5:00AM,Fix Mom Computer,Work,Productive,High,180.0
+Mark,10/11/2023,8:00AM,Breakfast,Eating,Content,Medium,20.0
+Mark,10/11/2023,8:20AM,Social Media,Leisure,Amused,Low,70.0
+Mark,10/11/2023,9:30AM,Sleeping,Sleeping,Great,High,90.0
+Mark,10/11/2023,11:00AM,Bath,Hygiene,Refreshed,Medium,10.0
+Mark,10/11/2023,11:10AM,Lunch,Eating,Satisfied,Medium,50.0
+Mark,10/11/2023,12:00PM,Do Assignments,Work,Focused,High,180.0
+Mark,10/11/2023,3:00PM,Social Media,Leisure,Happy,Low,60.0
+Mark,10/11/2023,4:00PM,Watch Netflix,Leisure,Entertained,Medium,120.0
+Mark,10/11/2023,6:00PM,Dinner,Eating,Content,Medium,60.0
+Mark,10/11/2023,7:00PM,Bath,Hygiene,Relaxed,Medium,30.0
+Mark,10/11/2023,7:30PM,Do Assignments,Work,Focused,High,90.0
+Mark,10/11/2023,9:00PM,Sleeping,Sleeping,Good,High,420.0
+Mark,10/12/2023,6:00AM,Studying,Class,Determined,High,60.0
+Mark,10/12/2023,7:00AM,Breakfast,Eating,Content,Medium,30.0
+Mark,10/12/2023,7:30AM,Class,Class,Bored,Low,150.0
+Mark,10/12/2023,10:00AM,Social Media,Leisure,Amused,Low,30.0
+Mark,10/12/2023,10:30AM,Class,Class,Tired,Low,90.0
+Mark,10/12/2023,12:00PM,Lunch,Eating,Satisfied,Medium,30.0
+Mark,10/12/2023,12:30PM,Bath,Hygiene,Refreshed,Medium,15.0
+Mark,10/12/2023,12:45PM,Travel To School,Commuting,Ok,Low,15.0
+Mark,10/12/2023,1:00PM,Class,Class,Tired,Low,120.0
+Mark,10/12/2023,3:00PM,Prep For Next Class,Class,Anxious,High,30.0
+Mark,10/12/2023,3:30PM,Class,Class,Exhausted,Low,150.0
+Mark,10/12/2023,6:00PM,Travel To Home,Commuting,Relieved,Low,30.0
+Mark,10/12/2023,6:30PM,Unwind,Leisure,Calm,Medium,15.0
+Mark,10/12/2023,6:45PM,Social Media,Leisure,Happy,Low,45.0
+Mark,10/12/2023,7:30PM,Dinner,Eating,Content,Medium,30.0
+Mark,10/12/2023,8:00PM,Do Assignments,Work,Stressed,High,120.0
+Mark,10/12/2023,10:00PM,Social Media,Leisure,Ok,Low,90.0
+Mark,10/12/2023,11:30PM,Sleeping,Sleeping,Good,High,390.0
+Mark,10/13/2023,6:00AM,Breakfast,Eating,Content,Medium,60.0
+Mark,10/13/2023,7:00AM,Travel To School,Commuting,Ok,Low,30.0
+Mark,10/13/2023,7:30AM,Class,Class,Bored,Low,150.0
+Mark,10/13/2023,10:00AM,Social Media,Leisure,Amused,Low,30.0
+Mark,10/13/2023,10:30AM,Do Assignments,Work,Focused,High,90.0
+Mark,10/13/2023,12:00PM,Lunch,Eating,Satisfied,Medium,30.0
+Mark,10/13/2023,12:30PM,Social Media,Leisure,Happy,Low,30.0
+Mark,10/13/2023,1:00PM,Class,Class,Tired,Low,120.0
+Mark,10/13/2023,3:00PM,Class,Class,Exhausted,Low,90.0
+Mark,10/13/2023,4:30PM,Travel To Home,Commuting,Relieved,Low,60.0
+Mark,10/13/2023,5:30PM,Unwind,Leisure,Calm,Medium,30.0
+Mark,10/13/2023,6:00PM,Watch Netflix,Leisure,Entertained,Medium,90.0
+Mark,10/13/2023,7:30PM,Dinner,Eating,Content,Medium,30.0
+Mark,10/13/2023,8:00PM,Do Assignments,Work,Stressed,High,150.0
+Mark,10/13/2023,10:30PM,Sleeping,Sleeping,Good,High,510.0
+Mark,10/14/2023,7:00AM,Breakfast,Eating,Content,Medium,30.0
+Mark,10/14/2023,7:30AM,Class,Class,Bored,Low,150.0
+Mark,10/14/2023,10:00AM,Social Media,Leisure,Amused,Low,30.0
+Mark,10/14/2023,10:30AM,Class,Class,Interested,High,90.0
+Mark,10/14/2023,12:00PM,Lunch,Eating,Satisfied,Medium,45.0
+Mark,10/14/2023,12:45PM,Travel To School,Commuting,Ok,Low,45.0
+Mark,10/14/2023,1:30PM,Class,Class,Curious,High,90.0
+Mark,10/14/2023,3:00PM,Snack Break,Eating,Content,Medium,30.0
+Mark,10/14/2023,3:30PM,Class,Class,Tired,Low,180.0
+Mark,10/14/2023,6:30PM,Travel To Home,Commuting,Relieved,Low,30.0
+Mark,10/14/2023,7:00PM,Dinner,Eating,Content,Medium,30.0
+Mark,10/14/2023,7:30PM,Do Assignments,Work,Focused,High,180.0
+Mark,10/14/2023,10:30PM,Sleeping,Sleeping,Good,High,570.0
+Mark,10/15/2023,8:00AM,Breakfast,Eating,Content,Medium,90.0
+Mark,10/15/2023,9:30AM,Bath,Hygiene,Refreshed,Medium,30.0
+Mark,10/15/2023,10:00AM,Church,Others,Peaceful,High,180.0
+Mark,10/15/2023,1:00PM,Lunch With Family,Eating,Happy,High,30.0
+Mark,10/15/2023,1:30PM,Shopping,Others,Excited,High,240.0
+Mark,10/15/2023,5:30PM,Watch A Movie,Leisure,Entertained,Medium,60.0
+Mark,10/15/2023,6:30PM,Travel To Home,Commuting,Ok,Low,30.0
+Mark,10/15/2023,7:00PM,Dinner,Eating,Content,Medium,60.0
+Mark,10/15/2023,8:00PM,Watch Netflix,Leisure,Entertained,Medium,120.0
+Mark,10/15/2023,10:00PM,Sleeping,Sleeping,Great,High,510.0
+Mark,10/16/2023,6:30AM,Breakfast,Eating,Content,Medium,30.0
+Mark,10/16/2023,7:00AM,Travel To School,Commuting,Ok,Low,30.0
+Mark,10/16/2023,7:30AM,Class,Class,Bored,Low,150.0
+Mark,10/16/2023,10:00AM,Social Media,Leisure,Amused,Low,30.0
+Mark,10/16/2023,10:30AM,Class,Class,Interested,High,90.0
+Mark,10/16/2023,12:00PM,Lunch,Eating,Satisfied,Medium,30.0
+Mark,10/16/2023,12:30PM,Bath,Hygiene,Refreshed,Medium,15.0
+Mark,10/16/2023,12:45PM,Travel To School,Commuting,Relaxed,Low,15.0
+Mark,10/16/2023,1:00PM,Class,Class,Curious,High,120.0
+Mark,10/16/2023,3:00PM,Prep For Next Class,Class,Anxious,High,30.0
+Mark,10/16/2023,3:30PM,Class,Class,Exhausted,Low,150.0
+Mark,10/16/2023,6:00PM,Travel To Home,Commuting,Tired,Low,30.0
+Mark,10/16/2023,6:30PM,Unwind,Leisure,Calm,Medium,15.0
+Mark,10/16/2023,6:45PM,Watch Netflix,Leisure,Entertained,Medium,45.0
+Mark,10/16/2023,7:30PM,Dinner,Eating,Happy,Medium,30.0
+Mark,10/16/2023,8:00PM,Do Assignments,Work,Stressed,High,120.0
+Mark,10/16/2023,10:00PM,Social Media,Leisure,Amused,Low,90.0
+Mark,10/16/2023,11:30PM,Sleeping,Sleeping,Good,High,390.0
+Mark,10/17/2023,6:00AM,Breakfast,Eating,Content,Medium,30.0
+Mark,10/17/2023,6:30AM,Studying,Class,Focused,High,60.0
+Mark,10/17/2023,7:30AM,Class,Class,Interested,High,150.0
+Mark,10/17/2023,10:00AM,Social Media,Leisure,Amused,Low,30.0
+Mark,10/17/2023,10:30AM,Class,Class,Curious,High,90.0
+Mark,10/17/2023,12:00PM,Lunch,Eating,Satisfied,Medium,30.0
+Mark,10/17/2023,12:30PM,Travel To School,Commuting,Relaxed,Low,30.0
+Mark,10/17/2023,1:00PM,Class,Class,Bored,Low,120.0
+Mark,10/17/2023,3:00PM,Snack Break,Eating,Content,Medium,30.0
+Mark,10/17/2023,3:30PM,Class,Class,Exhausted,Low,150.0
+Mark,10/17/2023,6:00PM,Travel To Home,Commuting,Tired,Low,30.0
+Mark,10/17/2023,6:30PM,Unwind,Leisure,Calm,Medium,30.0
+Mark,10/17/2023,7:00PM,Dinner,Eating,Happy,Medium,30.0
+Mark,10/17/2023,7:30PM,Do Assignments,Work,Stressed,High,90.0
+Mark,10/17/2023,9:00PM,Watch Netflix,Leisure,Entertained,Medium,90.0
+Mark,10/17/2023,10:30PM,Sleeping,Sleeping,Good,High,450.0
+Mark,10/18/2023,6:00AM,Breakfast,Eating,Content,Medium,30.0
+Mark,10/18/2023,6:30AM,Studying,Class,Focused,High,60.0
+Mark,10/18/2023,7:30AM,Social Media,Leisure,Amused,Low,60.0
+Mark,10/18/2023,8:30AM,Bath,Hygiene,Refreshed,Medium,15.0
+Mark,10/18/2023,8:45AM,Do Assignments,Work,Productive,High,195.0
+Mark,10/18/2023,12:00PM,Lunch,Eating,Satisfied,Medium,60.0
+Mark,10/18/2023,1:00PM,Class,Class,Curious,High,60.0
+Mark,10/18/2023,2:00PM,Snack Break,Eating,Content,Medium,15.0
+Mark,10/18/2023,2:15PM,Do Assignments,Work,Productive,High,105.0
+Mark,10/18/2023,4:00PM,Unwind,Leisure,Calm,Medium,60.0
+Mark,10/18/2023,5:00PM,Dinner,Eating,Happy,Medium,30.0
+Mark,10/18/2023,5:30PM,Do Assignments,Work,Stressed,High,90.0
+Mark,10/18/2023,7:00PM,Watch Netflix,Leisure,Entertained,Medium,210.0
+Mark,10/18/2023,10:30PM,Sleeping,Sleeping,Good,High,450.0
+Mark,10/19/2023,6:00AM,Breakfast,Eating,Content,Medium,30.0
+Mark,10/19/2023,6:30AM,Studying,Class,Focused,High,60.0
+Mark,10/19/2023,7:30AM,Class,Class,Interested,High,150.0
+Mark,10/19/2023,10:00AM,Social Media,Leisure,Amused,Low,30.0
+Mark,10/19/2023,10:30AM,Class,Class,Curious,High,90.0
+Mark,10/19/2023,12:00PM,Lunch,Eating,Satisfied,Medium,30.0
+Mark,10/19/2023,12:30PM,Travel To School,Commuting,Relaxed,Low,30.0
+Mark,10/19/2023,1:00PM,Class,Class,Bored,Low,120.0
+Mark,10/19/2023,3:00PM,Snack Break,Eating,Content,Medium,30.0
+Mark,10/19/2023,3:30PM,Class,Class,Exhausted,Low,150.0
+Mark,10/19/2023,6:00PM,Travel To Home,Commuting,Tired,Low,30.0
+Mark,10/19/2023,6:30PM,Unwind,Leisure,Calm,Medium,30.0
+Mark,10/19/2023,7:00PM,Dinner,Eating,Happy,Medium,30.0
+Mark,10/19/2023,7:30PM,Do Assignments,Work,Stressed,High,90.0
+Mark,10/19/2023,9:00PM,Watch Netflix,Leisure,Entertained,Medium,90.0
+Mark,10/19/2023,10:30PM,Sleeping,Sleeping,Good,High,450.0
+Mark,10/20/2023,6:00AM,Breakfast,Eating,Content,Medium,60.0
+Mark,10/20/2023,7:00AM,Travel To School,Commuting,Relaxed,Low,30.0
+Mark,10/20/2023,7:30AM,Class,Class,Interested,High,150.0
+Mark,10/20/2023,10:00AM,Social Media,Leisure,Amused,Low,30.0
+Mark,10/20/2023,10:30AM,Lunch,Eating,Satisfied,Medium,135.0
+Mark,10/20/2023,12:45PM,Do Assignment,Work,Productive,High,15.0
+Mark,10/20/2023,1:00PM,Class,Class,Curious,High,120.0
+Mark,10/20/2023,3:00PM,Class,Class,Exhausted,Low,90.0
+Mark,10/20/2023,4:30PM,Snack Break,Eating,Content,Medium,30.0
+Mark,10/20/2023,5:00PM,Travel To Home,Commuting,Tired,Low,30.0
+Mark,10/20/2023,5:30PM,Unwind,Leisure,Calm,Medium,30.0
+Mark,10/20/2023,6:00PM,Watch Netflix,Leisure,Entertained,Medium,90.0
+Mark,10/20/2023,7:30PM,Dinner,Eating,Happy,Medium,30.0
+Mark,10/20/2023,8:00PM,Do Assignments,Work,Stressed,High,150.0
+Mark,10/20/2023,10:30PM,Sleeping,Sleeping,Good,High,570.0
+Mark,10/21/2023,8:00AM,Breakfast,Eating,Content,Medium,30.0
+Mark,10/21/2023,8:30AM,Wash Clothes,Work,Productive,Medium,90.0
+Mark,10/21/2023,10:00AM,Class,Class,Interested,High,120.0
+Mark,10/21/2023,12:00PM,Do Assignments,Work,Productive,High,120.0
+Mark,10/21/2023,2:00PM,Snack Break,Eating,Content,Medium,15.0
+Mark,10/21/2023,2:15PM,Do Assignments,Work,Productive,High,105.0
+Mark,10/21/2023,4:00PM,Watch Netflix,Leisure,Entertained,Medium,90.0
+Mark,10/21/2023,5:30PM,Dinner,Eating,Happy,Medium,90.0
+Mark,10/21/2023,7:00PM,Do Assignments,Work,Stressed,High,90.0
+Mark,10/21/2023,8:30PM,Watch Netflix,Leisure,Entertained,Medium,120.0
+Mark,10/21/2023,10:30PM,Sleeping,Sleeping,Good,High,570.0
+Mark,10/22/2023,8:00AM,Breakfast,Eating,Content,Medium,30.0
+Mark,10/22/2023,8:30AM,Social Media,Leisure,Amused,Low,60.0
+Mark,10/22/2023,9:30AM,Bath,Hygiene,Refreshed,Medium,15.0
+Mark,10/22/2023,9:45AM,Do Assignments,Work,Productive,High,135.0
+Mark,10/22/2023,12:00PM,Lunch,Eating,Satisfied,Medium,30.0
+Mark,10/22/2023,12:30PM,Karaoke With Friends,Others,Happy,High,210.0
+Mark,10/22/2023,4:00PM,Snack Break With Friends,Eating,Content,Medium,30.0
+Mark,10/22/2023,4:30PM,Travel To Home,Commuting,Relaxed,Low,30.0
+Mark,10/22/2023,5:00PM,Unwind,Leisure,Calm,Medium,30.0
+Mark,10/22/2023,5:30PM,Dinner,Eating,Happy,Medium,30.0
+Mark,10/22/2023,6:00PM,Do Assignments,Work,Stressed,High,90.0
+Mark,10/22/2023,7:30PM,Watch Netflix,Leisure,Entertained,Medium,90.0
+Mark,10/22/2023,9:00PM,Sleeping,Sleeping,Good,High,420.0
+Mark,10/23/2023,6:00AM,Breakfast,Eating,Content,Medium,30.0
+Mark,10/23/2023,6:30AM,Travel To School,Commuting,Relaxed,Low,60.0
+Mark,10/23/2023,7:30AM,Class,Class,Interested,High,150.0
+Mark,10/23/2023,10:00AM,Hangout With Friends,Others,Happy,High,120.0
+Mark,10/23/2023,12:00PM,Lunch,Eating,Satisfied,Medium,60.0
+Mark,10/23/2023,1:00PM,Class,Class,Curious,High,120.0
+Mark,10/23/2023,3:00PM,Class,Class,Exhausted,Low,90.0
+Mark,10/23/2023,4:30PM,Snack Break,Eating,Content,Medium,60.0
+Mark,10/23/2023,5:30PM,Travel To Home,Commuting,Tired,Low,30.0
+Mark,10/23/2023,6:00PM,Unwind,Leisure,Calm,Medium,60.0
+Mark,10/23/2023,7:00PM,Dinner,Eating,Happy,Medium,30.0
+Mark,10/23/2023,7:30PM,Do Assignments,Work,Stressed,High,90.0
+Mark,10/23/2023,9:00PM,Watch Netflix,Leisure,Entertained,Medium,90.0
+Mark,10/23/2023,10:30PM,Sleeping,Sleeping,Good,High,390.0
+Mark,10/24/2023,5:00AM,Breakfast,Eating,Content,Medium,30.0
+Hannah,10/10/2023,7:00AM,Getting Ready For Class,Class,Sleepy,Medium,30.0
+Hannah,10/10/2023,7:30AM,Attending Class,Class,Tired,High ,150.0
+Hannah,10/10/2023,10:00AM,Rest,Leisure,Relaxed,High,30.0
+Hannah,10/10/2023,10:30AM,Attending Class,Class,Focused,High,90.0
+Hannah,10/10/2023,12:00PM,Lunch,Eating,Relaxed,Medium,60.0
+Hannah,10/10/2023,1:00PM,Rest,Leisure,Relaxed,High,90.0
+Hannah,10/10/2023,2:30PM,Getting Ready For Class,Class,Refreshed,Low,30.0
+Hannah,10/10/2023,3:00PM,Commuting To School,Commuting,Tired,Low,30.0
+Hannah,10/10/2023,3:30PM,Attending Class,Class,Focused,High,150.0
+Hannah,10/10/2023,6:00PM,Snack,Eating,Refreshed,Medium,60.0
+Hannah,10/10/2023,7:00PM,Going Home,Commuting,Tired,Medium,60.0
+Hannah,10/10/2023,8:00PM,Rest,Leisure,Relaxed,High,30.0
+Hannah,10/10/2023,9:30PM,Dinner,Eating,Relaxed,Medium,30.0
+Hannah,10/10/2023,10:00PM,Homework,Work,Focused,Medium,120.0
+Hannah,10/10/2023,12:00AM,Bedtime,Sleeping,Relaxed,High,540.0
+Hannah,10/11/2023,9:00AM,Woke Up,Waking Up,Grumpy,Low,60.0
+Hannah,10/11/2023,10:00AM,Getting Ready For School,Class,Refreshed,Medium,60.0
+Hannah,10/11/2023,11:00AM,Instructor Consultation,Class,Concentrated,High,60.0
+Hannah,10/11/2023,12:30PM,Lunch,Eating,Relaxed,High,120.0
+Hannah,10/11/2023,2:30PM,Travel To It Park,Commuting,Tired,Low,30.0
+Hannah,10/11/2023,3:00PM,Order Coffee,Eating,Happy,Medium,30.0
+Hannah,10/11/2023,3:30PM,Finishing Homework,Work,Concentrated,High,60.0
+Hannah,10/11/2023,4:30PM,Go To The Mall,Others,Happy,Medium,120.0
+Hannah,10/11/2023,5:30PM,Going Home,Commuting,Tired,High,60.0
+Hannah,10/11/2023,7:30PM,Rest,Leisure,Tired,High,120.0
+Hannah,10/11/2023,9:30PM,Continue Group Project,Work,Concentrated,High,90.0
+Hannah,10/11/2023,12:00AM,Watch Tiktok Videos,Leisure,Tired,Low,90.0
+Hannah,10/11/2023,1:30AM,Bedtime,Sleeping,Relaxed,High,330.0
+Hannah,10/12/2023,7:00AM,Getting Ready For Class,Class,Sleepy,Medium,30.0
+Hannah,10/12/2023,7:30AM,Attending Class,Class,Sleepy,High ,150.0
+Hannah,10/12/2023,10:00AM,Rest,Leisure,Relaxed,High,30.0
+Hannah,10/12/2023,10:30AM,Attending Class,Class,Concentrated,High,90.0
+Hannah,10/12/2023,12:00PM,Lunch,Eating,Relaxed,Medium,60.0
+Hannah,10/12/2023,1:00PM,Rest,Leisure,Relaxed,High,90.0
+Hannah,10/12/2023,2:30PM,Getting Ready For Class,Class,Refreshed,Low,30.0
+Hannah,10/12/2023,3:00PM,Commuting To School,Commuting,Tired,Low,30.0
+Hannah,10/12/2023,3:30PM,Attending Class,Class,Focused,High,150.0
+Hannah,10/12/2023,6:00PM,Going Ragdex To Eat,Others,Tired,Medium,40.0
+Hannah,10/12/2023,6:40PM,Dinner,Eating,Happy,Medium,60.0
+Hannah,10/12/2023,7:40PM,Going Home,Commuting,Relaxed,High,110.0
+Hannah,10/12/2023,9:30PM,Homework,Work,Tired,High,30.0
+Hannah,10/12/2023,11:00PM,Rest,Leisure,Relaxed,High,90.0
+Hannah,10/12/2023,12:00AM,Bedtime,Sleeping,Relaxed,High,360.0
+Hannah,10/13/2023,6:00AM,Getting Ready For Class,Class,Sleepy,Medium,90.0
+Hannah,10/13/2023,7:20AM,Commuting To School,Commuting,Sleepy,High ,20.0
+Hannah,10/13/2023,7:40AM,Attending Class,Class,Focused,High,140.0
+Hannah,10/13/2023,10:00AM,Break,Leisure,Relaxed,High,120.0
+Hannah,10/13/2023,12:00PM,Lunch,Eating,Relaxed,Medium,60.0
+Hannah,10/13/2023,1:00PM,Attending Class,Class,Sleepy,High,120.0
+Hannah,10/13/2023,3:00PM,Attending Class,Class,Focused,Low,90.0
+Hannah,10/13/2023,4:30PM,Snack,Eating,Focused,High,60.0
+Hannah,10/13/2023,5:30PM,Going Home,Commuting,Relaxed,Medium,70.0
+Hannah,10/13/2023,6:40PM,Rest,Leisure,Happy,Medium,60.0
+Hannah,10/13/2023,7:40PM,Watch Tiktok Videos,Leisure,Relaxed,High,110.0
+Hannah,10/13/2023,9:30PM,Rest,Leisure,Tired,High,30.0
+Hannah,10/13/2023,11:00PM,Bedtime,Sleeping,Relaxed,High,600.0
+Hannah,10/14/2023,9:00AM,Woke Up,Waking Up,Refreshed,High,60.0
+Hannah,10/14/2023,10:00AM,Attended Class,Class,Focused,Medium,60.0
+Hannah,10/14/2023,11:30AM,Study Session,Class,Concentrated,Medium,120.0
+Hannah,10/14/2023,1:30PM,Lunch,Eating,Energetic,Medium,30.0
+Hannah,10/14/2023,2:00PM,Met Friends For Coffee,Others,Relaxed,Low,60.0
+Hannah,10/14/2023,3:30PM,Took A Walk,Others,Relaxed,High,30.0
+Hannah,10/14/2023,4:00PM,Homework And Assignments,Work,Focused,High,120.0
+Hannah,10/14/2023,6:30PM,Dinner,Eating,Energetic,Medium,60.0
+Hannah,10/14/2023,7:30PM,Watched Movies,Leisure,Relaxed,Low,120.0
+Hannah,10/14/2023,9:30PM,Late-Night Study Session,Class,Determined,High,60.0
+Hannah,10/14/2023,10:30PM,Wind Down And Relax,Leisure,Relaxed,High,30.0
+Hannah,10/14/2023,11:00PM,Bedtime,Sleeping,Sleepy,High,540.0
+Hannah,10/15/2023,8:00AM,Woke Up,Waking Up,Refreshed,,30.0
+Hannah,10/15/2023,8:30AM,Breakfast,Eating,Energetic,Medium,30.0
+Hannah,10/15/2023,9:00AM,Study For Exam,Class,Focused,High,180.0
+Hannah,10/15/2023,12:00PM,Lunch,Eating,Relaxed,Medium,60.0
+Hannah,10/15/2023,1:00PM,Continue Exam Prep,Class,Determined,High,180.0
+Hannah,10/15/2023,4:00PM,Break And Snack,Eating,Energetic,Low,30.0
+Hannah,10/15/2023,4:30PM,Study Session,Class,Focused,Medium,120.0
+Hannah,10/15/2023,6:30PM,Dinner,Eating,Relaxed,Medium,60.0
+Hannah,10/15/2023,7:30PM,Relaxation And Leisure,Leisure,Relaxed,High,120.0
+Hannah,10/15/2023,9:30PM,Final Exam Review,Class,Concentrated,High,60.0
+Hannah,10/15/2023,10:30 PM,Wind Down And Relax,Leisure,Relaxed,High,30.0
+Hannah,10/15/2023,11:00PM,Bedtime,Sleeping,Sleepy,High,420.0
+Hannah,10/16/2023,6:00AM,Getting Ready For Class,Class,Sleepy,Medium,90.0
+Hannah,10/16/2023,7:30AM,Reporting On Output,Work,Focused,High,90.0
+Hannah,10/16/2023,10:00AM,Break,Leisure,Relaxed,High,60.0
+Hannah,10/16/2023,11:00AM,Study And Review,Class,Focused,High,120.0
+Hannah,10/16/2023,1:00PM,App Development Exam,Class,Determined,High,90.0
+Hannah,10/16/2023,2:30PM,Exam On Rizal,Class,Concentrated,High,60.0
+Hannah,10/16/2023,3:30PM,Relax And Unwind,Leisure,Relaxed,Medium,60.0
+Hannah,10/16/2023,4:30PM,Snack And Break,Eating,Energetic,Low,30.0
+Hannah,10/16/2023,5:00PM,Leisure Activities,Leisure,Relaxed,High,120.0
+Hannah,10/16/2023,7:00PM,Dinner,Eating,Relaxed,Medium,60.0
+Hannah,10/16/2023,8:00PM,Study For Upcoming Classes,Class,Focused,High,120.0
+Hannah,10/16/2023,10:00PM,Wind Down And Relax,Leisure,Relaxed,High,30.0
+Hannah,10/16/2023,10:30PM,Bedtime,Sleeping,Sleepy,High,510.0
+Hannah,10/17/2023,7:00AM,Getting Ready For Class,Class,Sleepy,Medium,30.0
+Hannah,10/17/2023,7:30AM,Infoman2 Exam (Online),Class,Concentrated,High,150.0
+Hannah,10/17/2023,10:00AM,Break And Relax,Leisure,Relaxed,High,30.0
+Hannah,10/17/2023,10:30AM,Reporting Of Other Groups,Work,Focused,High,90.0
+Hannah,10/17/2023,12:00PM,Lunch,Eating,Relaxed,Medium,60.0
+Hannah,10/17/2023,1:00PM,Relaxation And Leisure,Leisure,Relaxed,High,120.0
+Hannah,10/17/2023,3:00PM,Study And Homework,Class,Focused,High,120.0
+Hannah,10/17/2023,5:00PM,Snack And Short Break,Eating,Energetic,Low,30.0
+Hannah,10/17/2023,5:30PM,Watching Tiktok Videos,Leisure,Happy,High,120.0
+Hannah,10/17/2023,7:30PM,Dinner,Eating,Relaxed,Medium,60.0
+Hannah,10/17/2023,8:30PM,Relaxation At Home,Leisure,Relaxed,High,120.0
+Hannah,10/17/2023,10:30PM,Wind Down And Prepare For Bed,Sleeping,Sleepy,High,30.0
+Hannah,10/17/2023,11:00PM,Bedtime,Sleeping,Sleepy,High,540.0
+Hannah,10/18/2023,8:00AM,Wake Up,Waking Up,Grumpy,Low,60.0
+Hannah,10/18/2023,9:00AM,Morning Routine,Class,Refreshed,Medium,60.0
+Hannah,10/18/2023,10:00AM,Study And Prepare For Exams,Class,Focused,High,120.0
+Hannah,10/18/2023,12:30PM,Lunch And Relax,Eating,Relaxed,High,90.0
+Hannah,10/18/2023,2:00PM,Watched Movies,Leisure,Focused,High,120.0
+Hannah,10/18/2023,4:00PM,Take A Short Break,Leisure,Happy,Medium,30.0
+Hannah,10/18/2023,4:30PM,Continue Exam Preparation,Class,Concentrated,High,120.0
+Hannah,10/18/2023,6:30PM,Exercise And Freshen Up,Hygiene,Energetic,High,60.0
+Hannah,10/18/2023,7:30PM,Dinner,Eating,Happy,High,90.0
+Hannah,10/18/2023,9:00PM,Watched Movies,Leisure,Relaxed,High,120.0
+Hannah,10/18/2023,11:00PM,Wind Down And Relax,Leisure,Calm,High,30.0
+Hannah,10/18/2023,11:30PM,Nighttime Reading,Leisure,Inspired,High,30.0
+Hannah,10/18/2023,12:00AM,Bedtime,Sleeping,Relaxed,High,420.0
+Hannah,10/19/2023,7:00AM,Getting Ready For Class,Class,Sleepy,Medium,30.0
+Hannah,10/19/2023,7:30AM,Attending Class,Class,Tired,High,150.0
+Hannah,10/19/2023,10:00AM,Rest,Leisure,Relaxed,High,30.0
+Hannah,10/19/2023,10:30AM,Project Management Exam,Class,Concentrated,High,90.0
+Hannah,10/19/2023,12:00PM,Lunch,Eating,Relaxed,Medium,60.0
+Hannah,10/19/2023,1:00PM,Rest,Leisure,Relaxed,High,90.0
+Hannah,10/19/2023,2:30PM,Getting Ready For Class,Class,Refreshed,Low,30.0
+Hannah,10/19/2023,3:00PM,Commuting To School,Commuting,Tired,Low,30.0
+Hannah,10/19/2023,3:30PM,Industrial Engineering Practical Exam,Class,Focused,High,150.0
+Hannah,10/19/2023,6:00PM,Going Ragdex To Eat,Others,Tired,Medium,40.0
+Hannah,10/19/2023,6:40PM,Dinner,Eating,Happy,Medium,60.0
+Hannah,10/19/2023,7:40PM,Going Home,Commuting,Relaxed,High,110.0
+Hannah,10/19/2023,9:30PM,Homework,Work,Tired,High,30.0
+Hannah,10/19/2023,11:00PM,Rest,Leisure,Relaxed,High,90.0
+Hannah,10/19/2023,12:00AM,Sleep,Sleeping,Relaxed,High,360.0
+Hannah,10/20/2023,7:00AM,Getting Ready For The Day,Class,Sleepy,Medium,90.0
+Hannah,10/20/2023,8:30AM,Exam,Class,Focused,High,90.0
+Hannah,10/20/2023,10:00AM,Study And Relax,Class,Relaxed,High,120.0
+Hannah,10/20/2023,2:00PM,Prep And Travel To It Park,Commuting,Excited,Medium,90.0
+Hannah,10/20/2023,2:30PM,"Visit It Park, Drink Coffee",Others,Refreshed,Medium,90.0
+Hannah,10/20/2023,3:00PM,Travel Back Home,Commuting,Tired,Medium,60.0
+Hannah,10/20/2023,3:30PM,Free Time At Home,Leisure,Tired,Medium,60.0
+Hannah,10/20/2023,6:00PM,Spending Time With My Cat,Leisure,Happy,Medium,90.0
+Hannah,10/20/2023,8:00PM,Dinner,Eating,Refreshed,Medium,60.0
+Hannah,10/20/2023,9:00PM,Relaxation And Unwind,Leisure,Relaxed,Medium,60.0
+Hannah,10/20/2023,10:00PM,Bedtime,Sleeping,Sleepy,High,600.0
+Hannah,10/21/2023,8:00AM,Woke Up And Breakfast,Waking Up,Relaxed,Medium,60.0
+Hannah,10/21/2023,9:00AM,Exercise And Outdoor Activities,Others,Energetic,High,120.0
+Hannah,10/21/2023,12:00PM,Lunch,Eating,Happy,Medium,60.0
+Hannah,10/21/2023,1:00PM,Creative Hobbies And Diy Projects,Leisure,Inspired,Medium,120.0
+Hannah,10/21/2023,4:00PM,Relaxation And Reading,Leisure,Relaxed,High,60.0
+Hannah,10/21/2023,6:00PM,Dinner,Eating,Content,Medium,60.0
+Hannah,10/21/2023,7:00PM,Movie Or Tv Show Marathon,Leisure,Excited,High,120.0
+Hannah,10/21/2023,10:00PM,Wind Down And Prepare For Bed,Sleeping,Relaxed,High,660.0
+Hannah,10/22/2023,9:00AM,Sleep In And Late Breakfast,Waking Up,Relaxed,Low,60.0
+Hannah,10/22/2023,10:00AM,Morning Meditation And Stretching,Class,Calm,Medium,30.0
+Hannah,10/22/2023,11:00AM,Leisurely Brunch,Eating,Content,Medium,60.0
+Hannah,10/22/2023,12:00PM,Explore Nature Or Go For A Walk,Others,Refreshed,High,120.0
+Hannah,10/22/2023,3:00PM,Relaxing At Home Or Garden,Leisure,Relaxed,High,60.0
+Hannah,10/22/2023,5:00PM,Creative Hobbies Or Reading,Leisure,Inspired,Medium,90.0
+Hannah,10/22/2023,7:00PM,Dinner,Eating,Content,Medium,60.0
+Hannah,10/22/2023,8:00PM,Unwind And Enjoy Some Music,Leisure,Relaxed,Medium,60.0
+Hannah,10/22/2023,9:00PM,Prepare For The Upcoming Week,Work,Focused,High,60.0
+Hannah,10/22/2023,10:00PM,Wind Down And Prepare For Bed,Sleeping,Relaxed,High,540.0
+Hannah,10/23/2023,7:00AM,Getting Ready For Class,Class,Sleepy,Medium,90.0
+Hannah,10/23/2023,7:30AM,Reporting On Output,Work,Focused,High,90.0
+Hannah,10/23/2023,10:00AM,Break,Leisure,Relaxed,High,60.0
+Hannah,10/23/2023,11:00AM,Study And Review,Class,Focused,High,120.0
+Hannah,10/23/2023,1:00PM,App Development Exam,Class,Determined,High,90.0
+Hannah,10/23/2023,2:30PM,Exam On Rizal,Class,Concentrated,High,60.0
+Hannah,10/23/2023,3:30PM,Relax And Unwind,Leisure,Relaxed,Medium,60.0
+Hannah,10/23/2023,4:30PM,Snack And Break,Eating,Energetic,Low,30.0
+Hannah,10/23/2023,5:00PM,Leisure Activities,Leisure,Relaxed,High,120.0
+Hannah,10/23/2023,7:00PM,Dinner,Eating,Relaxed,Medium,60.0
+Hannah,10/23/2023,8:00PM,Study For Upcoming Classes,Class,Focused,High,120.0
+Hannah,10/23/2023,10:00PM,Wind Down And Relax,Leisure,Relaxed,High,30.0
+Hannah,10/23/2023,10:30PM,Bedtime,Sleeping,Sleepy,High,510.0
+Hannah,10/24/2023,7:00AM,Getting Ready For Class,Class,Sleepy,Medium,30.0
+Hannah,10/24/2023,7:30AM,Rest,Leisure,Relaxed,High,30.0
+Hannah,10/24/2023,10:00AM,Rest,Leisure,Relaxed,High,30.0
+Hannah,10/24/2023,10:30AM,Reporting Of Other Groups,Work,Focused,High,90.0
+Hannah,10/24/2023,12:00PM,Lunch,Eating,Relaxed,Medium,60.0
+Hannah,10/24/2023,1:00PM,Rest,Leisure,Relaxed,High,90.0
+Hannah,10/24/2023,2:30PM,Getting Ready For Class,Class,Refreshed,Low,30.0
+Hannah,10/24/2023,3:00PM,Commuting To School,Commuting,Tired,Low,30.0
+Hannah,10/24/2023,3:30PM,Attending Class,Class,Focused,High,90.0
+Hannah,10/24/2023,6:00PM,Finishing Assignment,Work,Focused,High,90.0
+Hannah,10/24/2023,8:00PM,Dinner,Eating,Relaxed,Medium,60.0
+Hannah,10/24/2023,9:00PM,Rest,Leisure,Relaxed,High,60.0
+Hannah,10/24/2023,10:00PM,Homework,Work,Focused,High,30.0
+Hannah,10/24/2023,12:00PM,Sleep,Sleeping,Tired,High,480.0
+Richelle,10/10/2023,5:00AM,Wake Up,Waking Up,Tired,Low,15.0
+Richelle,10/10/2023,5:15AM,Take A Bath,Hygiene,Cleansed,Medium,30.0
+Richelle,10/10/2023,5:45AM,Cook Breakfast,Eating,Satisfied,Medium,30.0
+Richelle,10/10/2023,6:15AM,Eat Breakfast,Eating,Full,High,15.0
+Richelle,10/10/2023,6:30AM,Skincaremakeup,Hygiene,Happy,High,15.0
+Richelle,10/10/2023,6:45AM,Commute,Commuting,Tired,Low,45.0
+Richelle,10/10/2023,7:30AM,Class,Class,Focused,High,180.0
+Richelle,10/10/2023,10:30AM,Vacant & Scrolling,Leisure,Relaxed,High,30.0
+Richelle,10/10/2023,11:00AM,Nas Library Duty,Work,Productive,Medium,240.0
+Richelle,10/10/2023,3:00PM,Class,Class,Tired,Low,120.0
+Richelle,10/10/2023,5:00PM,Commute,Commuting,Tired,Low,60.0
+Richelle,10/10/2023,6:00PM,Eat Dinner,Eating,Full,Medium,30.0
+Richelle,10/10/2023,6:30PM,Skincare & Relax,Leisure,Happy,High,60.0
+Richelle,10/10/2023,7:30PM,Do Homework,Work,Productive,Medium,90.0
+Richelle,10/10/2023,9:00PM,Watch Videos,Leisure,Happy,High,30.0
+Richelle,10/10/2023,9:30PM,Sleep,Sleeping,Resting,Low,630.0
+Richelle,10/11/2023,8:00AM,Wake Up,Waking Up,Tired,Low,15.0
+Richelle,10/11/2023,8:15AM,Journal,Leisure,Happy,High,15.0
+Richelle,10/11/2023,8:30AM,Watch Videos,Leisure,Fun,High,60.0
+Richelle,10/11/2023,9:30AM,Eat Breakfast,Eating,Full,High,30.0
+Richelle,10/11/2023,10:00AM,Take A Bath,Hygiene,Cleansed,High,30.0
+Richelle,10/11/2023,10:30AM,Skincaremakeup,Hygiene,Happy,High,30.0
+Richelle,10/11/2023,11:00AM,Commute,Commuting,Tired,Medium,45.0
+Richelle,10/11/2023,11:45AM,Vacant & Scrolling,Leisure,Happy,High,75.0
+Richelle,10/11/2023,1:00PM,Class,Class,Focused,Medium,120.0
+Richelle,10/11/2023,3:00PM,Vacant & Scrolling,Leisure,Happy,High,30.0
+Richelle,10/11/2023,3:30PM,Nas Library Duty,Work,Productive,Medium,240.0
+Richelle,10/11/2023,7:30PM,Commute,Commuting,Tired,Low,45.0
+Richelle,10/11/2023,8:15PM,Eat Dinner,Eating,Full,Low,15.0
+Richelle,10/11/2023,8:30PM,Skincare & Relax,Leisure,Happy,Medium,30.0
+Richelle,10/11/2023,9:00PM,Sleep,Sleeping,Resting,Low,480.0
+Richelle,10/12/2023,5:00AM,Wake Up,Waking Up,Tired,Low,15.0
+Richelle,10/12/2023,5:15AM,Take A Bath,Hygiene,Cleansed,Medium,30.0
+Richelle,10/12/2023,5:45AM,Cook Breakfast,Eating,Satisfied,High,30.0
+Richelle,10/12/2023,6:15AM,Eat Breakfast,Eating,Full,High,15.0
+Richelle,10/12/2023,6:30AM,Skincaremakeup,Hygiene,Happy,High,30.0
+Richelle,10/12/2023,7:00AM,Commute,Commuting,Tired,Medium,60.0
+Richelle,10/12/2023,8:00AM,Vacant & Scrolling,Leisure,Relaxed,Medium,30.0
+Richelle,10/12/2023,8:30AM,Class,Class,Focused,Medium,120.0
+Richelle,10/12/2023,10:30AM,Lunch,Eating,Full,High,30.0
+Richelle,10/12/2023,11:00AM,Nas Library Duty,Work,Productive,High,240.0
+Richelle,10/12/2023,3:00PM,Class,Class,Productive,High,180.0
+Richelle,10/12/2023,6:00PM,Commute,Commuting,Tired,Low,45.0
+Richelle,10/12/2023,6:45PM,Cook Dinner,Eating,Happy,High,45.0
+Richelle,10/12/2023,7:30PM,Eat Dinner,Eating,Full,High,30.0
+Richelle,10/12/2023,8:00PM,Skincare & Relax,Leisure,Relaxed,High,30.0
+Richelle,10/12/2023,8:30PM,Watch Videos,Leisure,Relaxed,High,60.0
+Richelle,10/12/2023,9:30PM,Sleep,Sleeping,Relaxed,Low,450.0
+Richelle,10/13/2023,5:00AM,Wake Up,Waking Up,Tired,Low,15.0
+Richelle,10/13/2023,5:15AM,Take A Bath,Hygiene,Cleansed,Medium,30.0
+Richelle,10/13/2023,5:45AM,Skincaremakeup,Hygiene,Happy,High,30.0
+Richelle,10/13/2023,6:15AM,Eat Breakfast,Eating,Full,Medium,15.0
+Richelle,10/13/2023,6:30AM,Commute,Commuting,Tired,Medium,60.0
+Richelle,10/13/2023,7:30AM,Class,Class,Focused,Medium,150.0
+Richelle,10/13/2023,10:OOAM,Nas Library Duty,Work,Productive,Medium,240.0
+Richelle,10/13/2023,2:00AM,Vacant & Scrolling,Leisure,Satisfied,High,60.0
+Richelle,10/13/2023,3:00PM,Class,Class,Productive,High,90.0
+Richelle,10/13/2023,4:30PM,Class,Class,Focused,High,90.0
+Richelle,10/13/2023,6:00PM,Have Dinner,Eating,Full,Medium,30.0
+Richelle,10/13/2023,6:30PM,Commute,Commuting,Tired,Low,60.0
+Richelle,10/13/2023,7:30PM,Skincare & Relax,Leisure,Relaxed,High,30.0
+Richelle,10/13/2023,8:00PM,Study,Class,Focused,High,60.0
+Richelle,10/13/2023,9:00PM,Sleep,Sleeping,Resting,Low,480.0
+Richelle,10/14/2023,5:00AM,Wake Up,Waking Up,Tired,Low,15.0
+Richelle,10/14/2023,5:15AM,Take A Bath,Hygiene,Cleansed,Medium,30.0
+Richelle,10/14/2023,5:45AM,Eat Breakfast,Eating,Happy,Medium,15.0
+Richelle,10/14/2023,6:00AM,Skincaremakeup,Hygiene,Happy,High,30.0
+Richelle,10/14/2023,6:30AM,Commute,Commuting,Tired,Medium,60.0
+Richelle,10/14/2023,7:30AM,Vacant & Scrolling,Leisure,Relaxed,Medium,30.0
+Richelle,10/14/2023,8:00AM,Nas Library Duty,Work,Productive,High,240.0
+Richelle,10/14/2023,12:00PM,Class,Class,Productive,High,180.0
+Richelle,10/14/2023,3:00PM,Do A Project,Work,Focused,High,180.0
+Richelle,10/14/2023,6:00PM,Commute,Commuting,Tired,Low,60.0
+Richelle,10/14/2023,7:00PM,Cook Dinner,Eating,Happy,Medium,60.0
+Richelle,10/14/2023,8:00PM,Eat Dinner,Eating,Full,Medium,30.0
+Richelle,10/14/2023,8:30PM,Skincare & Relax,Leisure,Happy,High,30.0
+Richelle,10/14/2023,9:00PM,Sleep,Sleeping,Resting,Low,660.0
+Richelle,10/15/2023,8:00AM,Wake Up,Waking Up,Tired,Low,15.0
+Richelle,10/15/2023,8:15AM,Vacant & Scrolling,Leisure,Relaxed,High,45.0
+Richelle,10/15/2023,9:00AM,Cook Breakfast,Eating,Happy,High,30.0
+Richelle,10/15/2023,9:30AM,Eat Breakfast,Eating,Full,High,30.0
+Richelle,10/15/2023,10:00AM,Do A Project,Work,Focused,High,60.0
+Richelle,10/15/2023,11:00AM,Eat Lunch,Eating,Full,High,60.0
+Richelle,10/15/2023,12:00PM,Do A Project,Work,Productive,Medium,180.0
+Richelle,10/15/2023,3:00PM,Vacant & Scrolling,Leisure,Happy,Medium,60.0
+Richelle,10/15/2023,4:00PM,Journal,Leisure,Relaxed,High,60.0
+Richelle,10/15/2023,5:00PM,Cook Dinner,Eating,Happy,High,60.0
+Richelle,10/15/2023,6:00PM,Eat Dinner,Eating,Full,High,30.0
+Richelle,10/15/2023,7:00PM,Hangout With My Niece,Others,Happy,High,60.0
+Richelle,10/15/2023,8:00PM,Skincare & Relax,Leisure,Relaxed,High,40.0
+Richelle,10/15/2023,8:40PM,Vacant & Scrolling,Leisure,Relaxed,Medium,20.0
+Richelle,10/15/2023,9:00PM,Sleep,Sleeping,Resting,Low,480.0
+Richelle,10/16/2023,5:00AM,Wake Up,Waking Up,Tired,Low,15.0
+Richelle,10/16/2023,5:15AM,Take A Bath,Hygiene,Cleansed,Medium,30.0
+Richelle,10/16/2023,5:45AM,Skincaremakeup,Hygiene,Happy,Medium,30.0
+Richelle,10/16/2023,6:15AM,Eat Breakfast,Eating,Full,Medium,15.0
+Richelle,10/16/2023,6:30AM,Commute,Commuting,Tired,Low,60.0
+Richelle,10/16/2023,7:30AM,Class,Class,Focused,High,150.0
+Richelle,10/16/2023,10:00AM,Nas Library Duty,Work,Productive,Medium,240.0
+Richelle,10/16/2023,2:00PM,Commute,Commuting,Tired,Medium,60.0
+Richelle,10/16/2023,3:00PM,Study,Class,Focused,High,300.0
+Richelle,10/16/2023,8:00PM,Eat Dinner,Eating,Full,Low,30.0
+Richelle,10/16/2023,8:30PM,Skincare & Relax,Leisure,Happy,High,30.0
+Richelle,10/16/2023,9:00PM,Sleep,Sleeping,Resting,Low,480.0
+Richelle,10/17/2023,5:00AM,Wake Up,Waking Up,Tired,High,15.0
+Richelle,10/17/2023,5:15AM,Take A Bath,Hygiene,Cleansed,High,30.0
+Richelle,10/17/2023,5:45AM,Skincaremakeup,Hygiene,Happy,High,30.0
+Richelle,10/17/2023,6:15AM,Eat Breakfast,Eating,Full,High,15.0
+Richelle,10/17/2023,6:30AM,Commute,Commuting,Tired,Medium,60.0
+Richelle,10/17/2023,7:30AM,Class,Class,Focused,High,180.0
+Richelle,10/17/2023,10:30AM,Vacant & Scrolling,Leisure,Relaxed,Medium,30.0
+Richelle,10/17/2023,11:00AM,Nas Library Duty,Work,Productive,Medium,240.0
+Richelle,10/17/2023,3:00PM,Study,Class,Focused,High,300.0
+Richelle,10/17/2023,8:00PM,Eat Dinner,Eating,Full,High,30.0
+Richelle,10/17/2023,8:30PM,Commute,Commuting,Tired,Low,30.0
+Richelle,10/17/2023,9:00PM,Skincare & Relax,Leisure,Happy,High,45.0
+Richelle,10/17/2023,9:45PM,Vacant & Scrolling,Leisure,Tired,Low,15.0
+Richelle,10/17/2023,10:00PM,Sleep,Sleeping,Resting,Low,540.0
+Richelle,10/18/2023,7:00AM,Wake Up,Waking Up,Tired,Low,15.0
+Richelle,10/18/2023,7:15AM,Eat Breakfast,Eating,Full,Medium,30.0
+Richelle,10/18/2023,7:45AM,Vacant & Scrolling,Leisure,Happy,Medium,15.0
+Richelle,10/18/2023,8:00AM,Take A Bath,Hygiene,Cleansed,Medium,30.0
+Richelle,10/18/2023,8:30AM,Skincaremakeup,Hygiene,Happy,High,30.0
+Richelle,10/18/2023,9:00AM,Hangout With My Niece,Others,Happy,High,60.0
+Richelle,10/18/2023,10:00AM,Commute,Commuting,Tired,Low,60.0
+Richelle,10/18/2023,11:00AM,Eat Lunch,Eating,Full,Medium,60.0
+Richelle,10/18/2023,12:00PM,Study,Class,Focused,High,60.0
+Richelle,10/18/2023,1:00PM,Class,Class,Focused,High,120.0
+Richelle,10/18/2023,3:00PM,Vacant & Scrolling,Leisure,Happy,Medium,30.0
+Richelle,10/18/2023,3:30PM,Nas Library Duty,Work,Productive,Medium,240.0
+Richelle,10/18/2023,7:30PM,Commute,Commuting,Tired,Low,30.0
+Richelle,10/18/2023,8:00PM,Eat Dinner,Eating,Full,Medium,30.0
+Richelle,10/18/2023,8:30PM,Skincare & Relax,Leisure,Happy,Medium,30.0
+Richelle,10/18/2023,9:00PM,Sleep,Sleeping,Resting,Low,420.0
+Richelle,10/19/2023,4:00AM,Wake Up,Waking Up,Tired,Low,15.0
+Richelle,10/19/2023,4:15AM,Study,Class,Focused,High,225.0
+Richelle,10/19/2023,8:00AM,Eat Breakfast,Eating,Full,Medium,30.0
+Richelle,10/19/2023,8:30AM,Take A Bath,Hygiene,Cleansed,Medium,30.0
+Richelle,10/19/2023,9:00AM,Skincaremakeup,Hygiene,Happy,Medium,30.0
+Richelle,10/19/2023,9:30AM,Commute,Commuting,Tired,Low,60.0
+Richelle,10/19/2023,10:00AM,Studyfocused,Class,Studyfocused,Medium,60.0
+Richelle,10/19/2023,11:00AM,Nas Library Duty,Work,Productive,High,240.0
+Richelle,10/19/2023,3:00PM,Class,Class,Productive,High,180.0
+Richelle,10/19/2023,6:00PM,Commute,Commuting,Tired,Low,60.0
+Richelle,10/19/2023,7:00PM,Eat Dinner,Eating,Full,Medium,30.0
+Richelle,10/19/2023,7:30PM,Vacant & Scrolling,Leisure,Happy,Medium,30.0
+Richelle,10/19/2023,8:00PM,Study,Class,Focused,High,240.0
+Richelle,10/19/2023,12:00AM,Skincare & Relax,Leisure,Happy,Low,15.0
+Richelle,10/19/2023,12:30AM,Sleep,Sleeping,Tired,Low,270.0
+Richelle,10/20/2023,5:00AM,Wake Up,Waking Up,Tired,Low,15.0
+Richelle,10/20/2023,5:15AM,Take A Bath,Hygiene,Cleansed,Low,30.0
+Richelle,10/20/2023,5:45AM,Cook Breakfast,Eating,Productive,Medium,30.0
+Richelle,10/20/2023,6:15AM,Eat Breakfast,Eating,Full,Medium,35.0
+Richelle,10/20/2023,6:45AM,Skincaremakeup,Hygiene,Happy,High,30.0
+Richelle,10/20/2023,7:15AM,Commute,Commuting,Tired,Low,60.0
+Richelle,10/20/2023,8:15AM,Vacant & Scrolling,Leisure,Tired,Low,15.0
+Richelle,10/20/2023,8:30AM,Class,Class,Focused,High,90.0
+Richelle,10/20/2023,10:00AM,Nas Library Duty,Work,Productive,High,240.0
+Richelle,10/20/2023,2:00PM,Study,Class,Focused,High,60.0
+Richelle,10/20/2023,3:00PM,Class,Class,Focused,High,90.0
+Richelle,10/20/2023,4:30PM,Class,Class,Focused,High,90.0
+Richelle,10/20/2023,6:00PM,Eat Dinner,Eating,Full,Medium,30.0
+Richelle,10/20/2023,6:30PM,Commute,Commuting,Tired,Medium,30.0
+Richelle,10/20/2023,7:00PM,Skincare & Relax,Leisure,Happy,High,60.0
+Richelle,10/20/2023,8:00PM,Watch Videos,Leisure,Happy,High,60.0
+Richelle,10/20/2023,9:00PM,Sleep,Sleeping,Tired,Low,480.0
+Richelle,10/21/2023,5:00AM,Wake Up,Waking Up,Tired,Low,15.0
+Richelle,10/21/2023,5:15AM,Take A Bath,Hygiene,Cleansed,High,30.0
+Richelle,10/21/2023,5:45AM,Skincaremakeup,Hygiene,Happy,High,30.0
+Richelle,10/21/2023,6:15AM,Cook Breakfast,Eating,Happy,Medium,30.0
+Richelle,10/21/2023,6:45AM,Eat Breakfast,Eating,Full,Medium,15.0
+Richelle,10/21/2023,7:00AM,Commute,Commuting,Tired,Medium,60.0
+Richelle,10/21/2023,8:00AM,Nas Library Duty,Work,Productive,High,240.0
+Richelle,10/21/2023,12:00PM,Watch Videos,Leisure,Happy,High,120.0
+Richelle,10/21/2023,2:00PM,Commute,Commuting,Tired,Medium,60.0
+Richelle,10/21/2023,3:00PM,Date With My Bf,Others,Happy,High,300.0
+Richelle,10/21/2023,8:00PM,Skincare & Relax,Leisure,Happy,High,60.0
+Richelle,10/21/2023,9:00PM,Sleep,Sleeping,Tired,Low,480.0
+Richelle,10/22/2023,5:00AM,Wake Up,Waking Up,Tired,Low,15.0
+Richelle,10/22/2023,5:15AM,Cook Breakfast,Eating,Happy,High,45.0
+Richelle,10/22/2023,6:00AM,Eat Breakfast,Eating,Full,High,30.0
+Richelle,10/22/2023,6:30AM,Vacant & Scrolling,Leisure,Relaxed,High,90.0
+Richelle,10/22/2023,8:00AM,Take A Bath,Hygiene,Cleansed,High,30.0
+Richelle,10/22/2023,9:00AM,Skincaremakeup,Hygiene,Happy,High,30.0
+Richelle,10/22/2023,9:30AM,Prepare Outfit,Class,Happy,High,30.0
+Richelle,10/22/2023,10:00AM,Commute,Commuting,Tired,High,60.0
+Richelle,10/22/2023,11:00AM,Eat Lunch,Eating,Full,High,60.0
+Richelle,10/22/2023,12:00PM,Commute,Commuting,Tired,Medium,30.0
+Richelle,10/22/2023,12:30PM,Visited My Parents,Others,Happy,High,270.0
+Richelle,10/22/2023,5:00PM,Commute,Commuting,Tired,High,60.0
+Richelle,10/22/2023,6:00PM,Vacant & Scrolling,Leisure,Happy,High,60.0
+Richelle,10/22/2023,7:00PM,Eat Dinner,Eating,Full,High,60.0
+Richelle,10/22/2023,8:00PM,Skincare & Relax,Leisure,Happy,High,30.0
+Richelle,10/22/2023,8:30PM,Vacant & Scrolling,Leisure,Happy,High,30.0
+Richelle,10/22/2023,9:00PM,Sleep,Sleeping,Tired,Low,480.0
+Richelle,10/23/2023,5:00AM,Wake Up,Waking Up,Tired,Low,15.0
+Richelle,10/23/2023,5:15AM,Take A Bath,Hygiene,Cleansed,Low,30.0
+Richelle,10/23/2023,5:45AM,Eat Breakfast,Eating,Full,Medium,15.0
+Richelle,10/23/2023,6:00AM,Skincaremakeup,Hygiene,Happy,High,30.0
+Richelle,10/23/2023,6:30AM,Commute,Commuting,Tired,Medium,60.0
+Richelle,10/23/2023,7:30AM,Class,Class,Focused,Medium,150.0
+Richelle,10/23/2023,10:00AM,Nas Library Duty,Work,Productive,High,240.0
+Richelle,10/23/2023,2:00PM,Vacant & Scrolling,Leisure,Happy,High,60.0
+Richelle,10/23/2023,3:00PM,Class,Class,Focused,Medium,90.0
+Richelle,10/23/2023,4:30PM,Commute,Commuting,Tired,Low,60.0
+Richelle,10/23/2023,5:30PM,Cook Dinner,Eating,Happy,Medium,45.0
+Richelle,10/23/2023,6:15PM,Skincare & Relax,Leisure,Happy,High,30.0
+Richelle,10/23/2023,6:45PM,Eat Dinner,Eating,Full,High,30.0
+Richelle,10/23/2023,7:15PM,Vacant & Scrolling,Leisure,Happy,High,15.0
+Richelle,10/23/2023,7:30PM,Class,Class,Focused,Medium,90.0
+Richelle,10/23/2023,9:00PM,Sleep,Sleeping,Tired,Medium,480.0

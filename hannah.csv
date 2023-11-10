@@ -1,0 +1,192 @@
+﻿Person,Date,Time,Activity,Category,How they felt,Value to the person,Duration in minutes
+Hannah,10/10/2023,7:00AM,Getting ready for class,Class,Sleepy,Medium,30
+Hannah,10/10/2023,7:30AM,Attending Class,Class,Tired,High ,150
+Hannah,10/10/2023,10:00AM,Rest,Leisure,Relaxed,High,30
+Hannah,10/10/2023,10:30AM,Attending Class,Class,Focused,High,90
+Hannah,10/10/2023,12:00PM,Lunch,Eating,Relaxed,Medium,60
+Hannah,10/10/2023,1:00PM,Rest,Leisure,Relaxed,High,90
+Hannah,10/10/2023,2:30PM,Getting ready for Class,Class,Refreshed,Low,30
+Hannah,10/10/2023,3:00PM,Commuting to school,Commuting,Tired,Low,30
+Hannah,10/10/2023,3:30PM,Attending Class,Class,Focused,High,150
+Hannah,10/10/2023,6:00PM,Snack,Eating,Refreshed,Medium,60
+Hannah,10/10/2023,7:00PM,Going Home,Commuting,Tired,Medium,60
+Hannah,10/10/2023,8:00PM,Rest,Leisure,Relaxed,High,30
+Hannah,10/10/2023,9:30PM,Dinner,Eating,Relaxed,Medium,30
+Hannah,10/10/2023,10:00PM,Homework,Work,Focused,Medium,120
+Hannah,10/10/2023,12:00AM,Bedtime,Sleeping,Relaxed,High,540
+Hannah,10/11/2023,9:00AM,Woke up,Waking up,Grumpy,Low,60
+Hannah,10/11/2023,10:00AM,Getting ready for school,Class,Refreshed,Medium,60
+Hannah,10/11/2023,11:00AM,Instructor Consultation,Class,Concentrated,High,60
+Hannah,10/11/2023,12:30PM,Lunch,Eating,Relaxed,High,120
+Hannah,10/11/2023,2:30PM,Travel to IT Park,Commuting,Tired,Low,30
+Hannah,10/11/2023,3:00PM,Order Coffee,Eating,Happy,Medium,30
+Hannah,10/11/2023,3:30PM,Finishing Homework,Work,Concentrated,High,60
+Hannah,10/11/2023,4:30PM,Go to the Mall,Others,Happy,Medium,120
+Hannah,10/11/2023,5:30PM,Going Home,Commuting,Tired,High,60
+Hannah,10/11/2023,7:30PM,Rest,Leisure,Tired,High,120
+Hannah,10/11/2023,9:30PM,Continue Group Project,Work,Concentrated,High,90
+Hannah,10/11/2023,12:00AM,Watch TikTok Videos,Leisure,Tired,Low,90
+Hannah,10/11/2023,1:30AM,Bedtime,Sleeping,Relaxed,High,330
+Hannah,10/12/2023,7:00AM,Getting ready for class,Class,Sleepy,Medium,30
+Hannah,10/12/2023,7:30AM,Attending Class,Class,Sleepy,High ,150
+Hannah,10/12/2023,10:00AM,Rest,Leisure,Relaxed,High,30
+Hannah,10/12/2023,10:30AM,Attending Class,Class,Concentrated,High,90
+Hannah,10/12/2023,12:00PM,Lunch,Eating,Relaxed,Medium,60
+Hannah,10/12/2023,1:00PM,Rest,Leisure,Relaxed,High,90
+Hannah,10/12/2023,2:30PM,Getting ready for Class,Class,Refreshed,Low,30
+Hannah,10/12/2023,3:00PM,Commuting to school,Commuting,Tired,Low,30
+Hannah,10/12/2023,3:30PM,Attending Class,Class,Focused,High,150
+Hannah,10/12/2023,6:00PM,Going Ragdex to Eat,Others,Tired,Medium,40
+Hannah,10/12/2023,6:40PM,Dinner,Eating,Happy,Medium,60
+Hannah,10/12/2023,7:40PM,Going Home,Commuting,Relaxed,High,110
+Hannah,10/12/2023,9:30PM,Homework,Work,Tired,High,30
+Hannah,10/12/2023,11:00PM,Rest,Leisure,Relaxed,High,90
+Hannah,10/12/2023,12:00AM,Bedtime,Sleeping,Relaxed,High,360
+Hannah,10/13/2023,6:00AM,Getting ready for class,Class,Sleepy,Medium,90
+Hannah,10/13/2023,7:20AM,Commuting to school,Commuting,Sleepy,High ,20
+Hannah,10/13/2023,7:40AM,Attending Class,Class,Focused,High,140
+Hannah,10/13/2023,10:00AM,Break,Leisure,Relaxed,High,120
+Hannah,10/13/2023,12:00PM,Lunch,Eating,Relaxed,Medium,60
+Hannah,10/13/2023,1:00PM,Attending Class,Class,Sleepy,High,120
+Hannah,10/13/2023,3:00PM,Attending Class,Class,Focused,Low,90
+Hannah,10/13/2023,4:30PM,Snack,Eating,Focused,High,60
+Hannah,10/13/2023,5:30PM,Going Home,Commuting,Relaxed,Medium,70
+Hannah,10/13/2023,6:40PM,Rest,Leisure,Happy,Medium,60
+Hannah,10/13/2023,7:40PM,Watch TikTok Videos,Leisure,Relaxed,High,110
+Hannah,10/13/2023,9:30PM,Rest,Leisure,Tired,High,30
+Hannah,10/13/2023,11:00PM,Bedtime,Sleeping,Relaxed,High,600
+Hannah,10/14/2023,9:00AM,Woke Up,Waking up,Refreshed,High,60
+Hannah,10/14/2023,10:00AM,Attended Class,Class,Focused,Medium,60
+Hannah,10/14/2023,11:30AM,Study Session,Class,Concentrated,Medium,120
+Hannah,10/14/2023,1:30PM,Lunch,Eating,Energetic,Medium,30
+Hannah,10/14/2023,2:00PM,Met Friends for Coffee,Others,Relaxed,Low,60
+Hannah,10/14/2023,3:30PM,Took a Walk,Others,Relaxed,High,30
+Hannah,10/14/2023,4:00PM,Homework and Assignments,Work,Focused,High,120
+Hannah,10/14/2023,6:30PM,Dinner,Eating,Energetic,Medium,60
+Hannah,10/14/2023,7:30PM,Watched Movies,Leisure,Relaxed,Low,120
+Hannah,10/14/2023,9:30PM,Late-Night Study Session,Class,Determined,High,60
+Hannah,10/14/2023,10:30PM,Wind Down and Relax,Leisure,Relaxed,High,30
+Hannah,10/14/2023,11:00PM,Bedtime,Sleeping,Sleepy,High,540
+Hannah,10/15/2023,8:00AM,Woke Up,Waking up,Refreshed,,30
+Hannah,10/15/2023,8:30AM,Breakfast,Eating,Energetic,Medium,30
+Hannah,10/15/2023,9:00AM,Study for Exam,Class,Focused,High,180
+Hannah,10/15/2023,12:00PM,Lunch,Eating,Relaxed,Medium,60
+Hannah,10/15/2023,1:00PM,Continue Exam Prep,Class,Determined,High,180
+Hannah,10/15/2023,4:00PM,Break and Snack,Eating,Energetic,Low,30
+Hannah,10/15/2023,4:30PM,Study Session,Class,Focused,Medium,120
+Hannah,10/15/2023,6:30PM,Dinner,Eating,Relaxed,Medium,60
+Hannah,10/15/2023,7:30PM,Relaxation and Leisure,Leisure,Relaxed,High,120
+Hannah,10/15/2023,9:30PM,Final Exam Review,Class,Concentrated,High,60
+Hannah,10/15/2023,10:30 PM,Wind Down and Relax,Leisure,Relaxed,High,30
+Hannah,10/15/2023,11:00PM,Bedtime,Sleeping,Sleepy,High,420
+Hannah,10/16/2023,6:00AM,Getting Ready for Class,Class,Sleepy,Medium,90
+Hannah,10/16/2023,7:30AM,Reporting on Output,Work,Focused,High,90
+Hannah,10/16/2023,10:00AM,Break,Leisure,Relaxed,High,60
+Hannah,10/16/2023,11:00AM,Study and Review,Class,Focused,High,120
+Hannah,10/16/2023,1:00PM,App Development Exam,Class,Determined,High,90
+Hannah,10/16/2023,2:30PM,Exam on Rizal,Class,Concentrated,High,60
+Hannah,10/16/2023,3:30PM,Relax and Unwind,Leisure,Relaxed,Medium,60
+Hannah,10/16/2023,4:30PM,Snack and Break,Eating,Energetic,Low,30
+Hannah,10/16/2023,5:00PM,Leisure Activities,Leisure,Relaxed,High,120
+Hannah,10/16/2023,7:00PM,Dinner,Eating,Relaxed,Medium,60
+Hannah,10/16/2023,8:00PM,Study for Upcoming Classes,Class,Focused,High,120
+Hannah,10/16/2023,10:00PM,Wind Down and Relax,Leisure,Relaxed,High,30
+Hannah,10/16/2023,10:30PM,Bedtime,Sleeping,Sleepy,High,510
+Hannah,10/17/2023,7:00AM,Getting Ready for Class,Class,Sleepy,Medium,30
+Hannah,10/17/2023,7:30AM,InfoMan2 Exam (Online),Class,Concentrated,High,150
+Hannah,10/17/2023,10:00AM,Break and Relax,Leisure,Relaxed,High,30
+Hannah,10/17/2023,10:30AM,Reporting of other groups,Work,Focused,High,90
+Hannah,10/17/2023,12:00PM,Lunch,Eating,Relaxed,Medium,60
+Hannah,10/17/2023,1:00PM,Relaxation and Leisure,Leisure,Relaxed,High,120
+Hannah,10/17/2023,3:00PM,Study and Homework,Class,Focused,High,120
+Hannah,10/17/2023,5:00PM,Snack and Short Break,Eating,Energetic,Low,30
+Hannah,10/17/2023,5:30PM,Watching TikTok Videos,Leisure,Happy,High,120
+Hannah,10/17/2023,7:30PM,Dinner,Eating,Relaxed,Medium,60
+Hannah,10/17/2023,8:30PM,Relaxation at Home,Leisure,Relaxed,High,120
+Hannah,10/17/2023,10:30PM,Wind Down and Prepare for Bed,Sleeping,Sleepy,High,30
+Hannah,10/17/2023,11:00PM,Bedtime,Sleeping,Sleepy,High,540
+Hannah,10/18/2023,8:00AM,Wake Up,Waking up,Grumpy,Low,60
+Hannah,10/18/2023,9:00AM,Morning Routine,Class,Refreshed,Medium,60
+Hannah,10/18/2023,10:00AM,Study and Prepare for Exams,Class,Focused,High,120
+Hannah,10/18/2023,12:30PM,Lunch and Relax,Eating,Relaxed,High,90
+Hannah,10/18/2023,2:00PM,Watched Movies,Leisure,Focused,High,120
+Hannah,10/18/2023,4:00PM,Take a Short Break,Leisure,Happy,Medium,30
+Hannah,10/18/2023,4:30PM,Continue Exam Preparation,Class,Concentrated,High,120
+Hannah,10/18/2023,6:30PM,Exercise and Freshen Up,Hygiene,Energetic,High,60
+Hannah,10/18/2023,7:30PM,Dinner,Eating,Happy,High,90
+Hannah,10/18/2023,9:00PM,Watched Movies,Leisure,Relaxed,High,120
+Hannah,10/18/2023,11:00PM,Wind Down and Relax,Leisure,Calm,High,30
+Hannah,10/18/2023,11:30PM,Nighttime Reading,Leisure,Inspired,High,30
+Hannah,10/18/2023,12:00AM,Bedtime,Sleeping,Relaxed,High,420
+Hannah,10/19/2023,7:00AM,Getting ready for class,Class,Sleepy,Medium,30
+Hannah,10/19/2023,7:30AM,Attending Class,Class,Tired,High,150
+Hannah,10/19/2023,10:00AM,Rest,Leisure,Relaxed,High,30
+Hannah,10/19/2023,10:30AM,Project Management exam,Class,Concentrated,High,90
+Hannah,10/19/2023,12:00PM,Lunch,Eating,Relaxed,Medium,60
+Hannah,10/19/2023,1:00PM,Rest,Leisure,Relaxed,High,90
+Hannah,10/19/2023,2:30PM,Getting ready for Class,Class,Refreshed,Low,30
+Hannah,10/19/2023,3:00PM,Commuting to school,Commuting,Tired,Low,30
+Hannah,10/19/2023,3:30PM,Industrial Engineering Practical Exam,Class,Focused,High,150
+Hannah,10/19/2023,6:00PM,Going Ragdex to Eat,Others,Tired,Medium,40
+Hannah,10/19/2023,6:40PM,Dinner,Eating,Happy,Medium,60
+Hannah,10/19/2023,7:40PM,Going Home,Commuting,Relaxed,High,110
+Hannah,10/19/2023,9:30PM,Homework,Work,Tired,High,30
+Hannah,10/19/2023,11:00PM,Rest,Leisure,Relaxed,High,90
+Hannah,10/19/2023,12:00AM,Sleep,Sleeping,Relaxed,High,360
+Hannah,10/20/2023,7:00AM,Getting ready for the day,Class,Sleepy,Medium,90
+Hannah,10/20/2023,8:30AM,Exam,Class,Focused,High,90
+Hannah,10/20/2023,10:00AM,Study and Relax,Class,Relaxed,High,120
+Hannah,10/20/2023,2:00PM,Prep and travel to IT Park,Commuting,Excited,Medium,90
+Hannah,10/20/2023,2:30PM,"Visit IT Park, Drink Coffee",Others,Refreshed,Medium,90
+Hannah,10/20/2023,3:00PM,Travel back home,Commuting,Tired,Medium,60
+Hannah,10/20/2023,3:30PM,Free Time at Home,Leisure,Tired,Medium,60
+Hannah,10/20/2023,6:00PM,Spending Time with my cat,Leisure,Happy,Medium,90
+Hannah,10/20/2023,8:00PM,Dinner,Eating,Refreshed,Medium,60
+Hannah,10/20/2023,9:00PM,Relaxation and Unwind,Leisure,Relaxed,Medium,60
+Hannah,10/20/2023,10:00PM,Bedtime,Sleeping,Sleepy,High,600
+Hannah,10/21/2023,8:00AM,Woke Up and Breakfast,Waking up,Relaxed,Medium,60
+Hannah,10/21/2023,9:00AM,Exercise and Outdoor Activities,Others,Energetic,High,120
+Hannah,10/21/2023,12:00PM,Lunch,Eating,Happy,Medium,60
+Hannah,10/21/2023,1:00PM,Creative Hobbies and DIY Projects,Leisure,Inspired,Medium,120
+Hannah,10/21/2023,4:00PM,Relaxation and Reading,Leisure,Relaxed,High,60
+Hannah,10/21/2023,6:00PM,Dinner,Eating,Content,Medium,60
+Hannah,10/21/2023,7:00PM,Movie or TV Show Marathon,Leisure,Excited,High,120
+Hannah,10/21/2023,10:00PM,Wind Down and Prepare for Bed,Sleeping,Relaxed,High,660
+Hannah,10/22/2023,9:00AM,Sleep In and Late Breakfast,Waking up,Relaxed,Low,60
+Hannah,10/22/2023,10:00AM,Morning Meditation and Stretching,Class,Calm,Medium,30
+Hannah,10/22/2023,11:00AM,Leisurely Brunch,Eating,Content,Medium,60
+Hannah,10/22/2023,12:00PM,Explore Nature or Go for a Walk,Others,Refreshed,High,120
+Hannah,10/22/2023,3:00PM,Relaxing at Home or Garden,Leisure,Relaxed,High,60
+Hannah,10/22/2023,5:00PM,Creative Hobbies or Reading,Leisure,Inspired,Medium,90
+Hannah,10/22/2023,7:00PM,Dinner,Eating,Content,Medium,60
+Hannah,10/22/2023,8:00PM,Unwind and Enjoy Some Music,Leisure,Relaxed,Medium,60
+Hannah,10/22/2023,9:00PM,Prepare for the Upcoming Week,Work,Focused,High,60
+Hannah,10/22/2023,10:00PM,Wind Down and Prepare for Bed,Sleeping,Relaxed,High,540
+Hannah,10/23/2023,7:00AM,Getting Ready for Class,Class,Sleepy,Medium,90
+Hannah,10/23/2023,7:30AM,Reporting on Output,Work,Focused,High,90
+Hannah,10/23/2023,10:00AM,Break,Leisure,Relaxed,High,60
+Hannah,10/23/2023,11:00AM,Study and Review,Class,Focused,High,120
+Hannah,10/23/2023,1:00PM,App Development Exam,Class,Determined,High,90
+Hannah,10/23/2023,2:30PM,Exam on Rizal,Class,Concentrated,High,60
+Hannah,10/23/2023,3:30PM,Relax and Unwind,Leisure,Relaxed,Medium,60
+Hannah,10/23/2023,4:30PM,Snack and Break,Eating,Energetic,Low,30
+Hannah,10/23/2023,5:00PM,Leisure Activities,Leisure,Relaxed,High,120
+Hannah,10/23/2023,7:00PM,Dinner,Eating,Relaxed,Medium,60
+Hannah,10/23/2023,8:00PM,Study for Upcoming Classes,Class,Focused,High,120
+Hannah,10/23/2023,10:00PM,Wind Down and Relax,Leisure,Relaxed,High,30
+Hannah,10/23/2023,10:30PM,Bedtime,Sleeping,Sleepy,High,510
+Hannah,10/24/2023,7:00AM,Getting ready for class,Class,Sleepy,Medium,30
+Hannah,10/24/2023,7:30AM,Rest,Leisure,Relaxed,High,30
+Hannah,10/24/2023,10:00AM,Rest,Leisure,Relaxed,High,30
+Hannah,10/24/2023,10:30AM,Reporting of other groups,Work,Focused,High,90
+Hannah,10/24/2023,12:00PM,Lunch,Eating,Relaxed,Medium,60
+Hannah,10/24/2023,1:00PM,Rest,Leisure,Relaxed,High,90
+Hannah,10/24/2023,2:30PM,Getting ready for Class,Class,Refreshed,Low,30
+Hannah,10/24/2023,3:00PM,Commuting to school,Commuting,Tired,Low,30
+Hannah,10/24/2023,3:30PM,Attending Class,Class,Focused,High,90
+Hannah,10/24/2023,6:00PM,Finishing Assignment,Work,Focused,High,90
+Hannah,10/24/2023,8:00PM,Dinner,Eating,Relaxed,Medium,60
+Hannah,10/24/2023,9:00PM,Rest,Leisure,Relaxed,High,60
+Hannah,10/24/2023,10:00PM,Homework,Work,Focused,High,30
+Hannah,10/24/2023,12:00PM,Sleep,Sleeping,Tired,High,480
+,,,,,,,
