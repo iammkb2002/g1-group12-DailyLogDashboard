@@ -15,7 +15,7 @@ df = pd.read_csv("dataset.csv")
 df["Value to the person"] = df["Value to the person"].map({"High": 3, "Medium": 2, "Low": 1})
 
 # Create a title for the brochure
-st.markdown("<h1 style='text-align: center; color: #19A7CE'>Group 12 - Facul Team - Activity Analysis Dashboard</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: #19A7CE'>Group 12: Facul Team - Activity Analysis Dashboard</h1>", unsafe_allow_html=True)
 
 # Add a horizontal line to separate each person
 st.markdown("---")
