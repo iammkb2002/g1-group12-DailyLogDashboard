@@ -171,7 +171,7 @@ for person in df["Person"].unique():
   with col2:
     df_person_value = df_person.groupby("Category")["Value to the person"].mean().reset_index()
     df_person_value = df_person_value.sort_values(by="Value to the person", ascending=False).head(5)
-    fig_person_value = px.bar(df_person_value, x="Value to the person", y="Category", orientation="h", color_discrete_sequence=['#ff2b2b'])
+    fig_person_value = px.bar(df_person_value, x="Value to the person", y="Category", orientation="h", color_discrete_sequence=['#83c9ff'])
     fig_person_value.update_layout(xaxis_title="Value to the person", yaxis_title="Category")
     fig_person_value.update_layout(showlegend=False, autosize=True, width=400, height=400)
     st.plotly_chart(fig_person_value)
