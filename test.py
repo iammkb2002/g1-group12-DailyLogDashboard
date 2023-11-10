@@ -150,7 +150,7 @@ for person in df["Person"].unique():
     df_person_duration = df_person.groupby("Category")["Duration in minutes"].sum().reset_index()
     df_person_duration["Duration in hours"] = df_person_duration["Duration in minutes"] / 60
     df_person_duration = df_person_duration.sort_values(by="Duration in hours", ascending=False).head(5)
-    fig_person_duration = px.bar(df_person_duration, x="Duration in hours", y="Category", orientation="h", color_discrete_sequence=['grey'])
+    fig_person_duration = px.bar(df_person_duration, x="Duration in hours", y="Category", orientation="h", color_discrete_sequence=['#0068c9'])
     fig_person_duration.update_layout(xaxis_title="Duration in hours", yaxis_title="Category")
     fig_person_duration.update_layout(showlegend=False, autosize=True, width=400, height=400)
     fig_person_duration.update_xaxes(tickmode='linear', dtick=10)
@@ -171,7 +171,7 @@ for person in df["Person"].unique():
   with col2:
     df_person_value = df_person.groupby("Category")["Value to the person"].mean().reset_index()
     df_person_value = df_person_value.sort_values(by="Value to the person", ascending=False).head(5)
-    fig_person_value = px.bar(df_person_value, x="Value to the person", y="Category", orientation="h", color_discrete_sequence=['#146C94'])
+    fig_person_value = px.bar(df_person_value, x="Value to the person", y="Category", orientation="h", color_discrete_sequence=['#ff2b2b'])
     fig_person_value.update_layout(xaxis_title="Value to the person", yaxis_title="Category")
     fig_person_value.update_layout(showlegend=False, autosize=True, width=400, height=400)
     st.plotly_chart(fig_person_value)
