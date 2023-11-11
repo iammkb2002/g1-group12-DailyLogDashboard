@@ -212,3 +212,5 @@ for person in df["Person"].unique():
   # Add a horizontal line to separate each person
   st.markdown("---")
 
+# Create a list of team members in a paragraph element colored 19A7CE
+st.markdown("<p style='text-align: center; color: #19A7CE'>IT 365 - G1- Group 12 - Facul Team<br>Members:<br>Badilla, Mark Kenneth S. - Leader<br>Restauro, Hannah Dylene B.<br>Villanueva, Richelle</p>", unsafe_allow_html=True)
