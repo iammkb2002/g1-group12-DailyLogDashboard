@@ -1,6 +1,7 @@
 pandas
 plotly
 streamlit
+streamlit-extras
 wordcloud
 matplotlib
 streamlit-extras
