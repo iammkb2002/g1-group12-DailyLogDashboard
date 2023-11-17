@@ -24,34 +24,53 @@ st.markdown("<div style='text-align: center;'>"
       "<h3 style='color: #19A7CE'>Shared Activity Exploration</h3>"
       "</div>", unsafe_allow_html=True)
 
+# Python
+st.markdown(
+  """
+  <div style='
+    background-color: #19A7CE;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+  '>
+  <p style='font-size: 20px; text-align: center; font-weight: bold; color: white; color: white'>How Many Hours Do We Spend on Different Activities Every Day?</p>
+  """
+  , unsafe_allow_html=True
+)
 
-# Create 3 columns with equal width
-col1, col2, col3 = st.columns(3)
+df_duration = df.groupby("Category")["Duration in minutes"].sum().reset_index()
+df_duration = df_duration.sort_values(by="Duration in minutes", ascending=False).head(7)
+df_duration["Duration in hours"] = (df_duration["Duration in minutes"] / 60 / df["Person"].nunique() / df["Date"].nunique()).round(0).astype(int)
 
-# Place the duration plot in the first column
-with col1:
-  st.markdown(
-    """
-    <div style='
-      background-color: #19A7CE;
-      border-radius: 10px;
-      padding: 20px;
-      margin: 10px;
-    '>
-    <p style='text-align: center; font-weight: bold; color: white; color: white'>How Much Time Do We Spend on Different Activities Every Day? (In Hours)</p>
-    """
-    , unsafe_allow_html=True
-  )
-  df_duration = df.groupby("Category")["Duration in minutes"].sum().reset_index()
-  df_duration = df_duration.sort_values(by="Duration in minutes", ascending=False).head(7)
-  df_duration["Duration in hours"] = (df_duration["Duration in minutes"] / 60 / df["Person"].nunique() / df["Date"].nunique()).round(0).astype(int)
-  fig_duration = px.pie(df_duration, values="Duration in hours", names="Category", hole=0.4)
-  fig_duration.update_traces(textinfo="value+label")
-  fig_duration.update_layout(showlegend=False, autosize=True, width=400, height=400)
-  st.plotly_chart(fig_duration)
+# Python
+# Display summary metrics for each category
+columns = st.columns(7)  # Create 7 columns
+
+for i, (index, row) in enumerate(df_duration.iterrows()):
+  with columns[i % 7]:  # Adjust the index to start from 0
+    st.markdown(
+      f"""
+      <div style='
+        background-color: #E3E3E3;
+        border-radius: 10px;
+        padding: 20px;
+        margin: 10px;
+        text-align: center;
+      '>
+      <span style='font-weight: bold; color: black;'>{row['Category']}</span>
+      <p style='font-size: 40px; font-weight: bold; color: black;'>{row['Duration in hours']}</p>
+      </div>
+      """, unsafe_allow_html=True
+    )
+
+# Add a horizontal line to separate each person
+st.markdown("<br><br>", unsafe_allow_html=True)
+
+# Create 2 columns with equal width
+col1, col2 = st.columns(2)
 
 # Place the value plot in the second column
-with col2:
+with col1:
   st.markdown(
     """
     <div style='
@@ -68,11 +87,11 @@ with col2:
   df_value = df.groupby("Category")["Value to the person"].mean().reset_index()
   fig_value = px.pie(df_value, values="Value to the person", names="Category", hole=0.4)
   fig_value.update_traces(textinfo="percent+label")
-  fig_value.update_layout(showlegend=False, autosize=True, width=400, height=400)
+  fig_value.update_layout(showlegend=False, autosize=True)  # Set width to col2.width
   st.plotly_chart(fig_value)
 
 # Group the data by category and how they felt
-with col3:
+with col2:
   st.markdown(
     """
     <div style='
@@ -89,7 +108,7 @@ with col3:
   most_common = grouped.loc[grouped.groupby("Category")["Count"].idxmax()]
   most_common = most_common.sort_values(by="Count", ascending=False)
   fig = px.bar(most_common, x="Category", y="Count", color="How they felt")
-  fig.update_layout(autosize=True, width=400, height=400)
+  fig.update_layout(autosize=True)
   most_common = most_common.sort_values(by="Count", ascending=False) # sort in descending order
   st.plotly_chart(fig)
 
