@@ -62,6 +62,8 @@ for col, row in zip(metric_cols, df_duration.itertuples()):
 
 style_metric_cards(background_color="#FFFFFF", border_left_color="#686664", border_color="#000000", box_shadow="#F71938")
 
+
+
 # Create 2 columns with equal width
 col1, col2 = st.columns(2)
 
@@ -168,7 +170,7 @@ for person in df["Person"].unique():
     df_person_duration = df_person_duration.sort_values(by="Duration in hours", ascending=False).head(5)
     fig_person_duration = px.bar(df_person_duration, x="Duration in hours", y="Category", orientation="h", color_discrete_sequence=['#0068c9'])
     fig_person_duration.update_layout(xaxis_title="Duration in hours", yaxis_title="Category")
-    fig_person_duration.update_layout(showlegend=False, autosize=True, width=400, height=400)
+    fig_person_duration.update_layout(showlegend=False, autosize=True)
     fig_person_duration.update_xaxes(tickmode='linear', dtick=10)
     st.plotly_chart(fig_person_duration)
     st.markdown(
@@ -189,7 +191,7 @@ for person in df["Person"].unique():
     df_person_value = df_person_value.sort_values(by="Value to the person", ascending=False).head(5)
     fig_person_value = px.bar(df_person_value, x="Value to the person", y="Category", orientation="h", color_discrete_sequence=['#83c9ff'])
     fig_person_value.update_layout(xaxis_title="Value to the person", yaxis_title="Category")
-    fig_person_value.update_layout(showlegend=False, autosize=True, width=400, height=400)
+    fig_person_value.update_layout(showlegend=False, autosize=True)
     st.plotly_chart(fig_person_value)
     st.markdown(
     """
@@ -226,7 +228,7 @@ for person in df["Person"].unique():
     fig_person = px.bar(most_common_person, x='Category', y='Count', color='How they felt')
 
     # Update layout
-    fig_person.update_layout(autosize=True, width=400, height=400)
+    fig_person.update_layout(autosize=True)
 
     # Display the plot
     st.plotly_chart(fig_person)
