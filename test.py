@@ -3,6 +3,7 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 from wordcloud import WordCloud
+from streamlit_extras.metric_cards import style_metric_cards
 import matplotlib.pyplot as plt
 
 # Set Streamlit to wide mode
@@ -14,44 +15,58 @@ df = pd.read_csv("dataset.csv")
 # Change value column to numerical values
 df["Value to the person"] = df["Value to the person"].map({"High": 3, "Medium": 2, "Low": 1})
 
-# Create a title for the brochure
+# Main title
 st.markdown("<h1 style='text-align: center; color: #19A7CE'>Group 12: Facul Team - Activity Analysis Dashboard</h1>", unsafe_allow_html=True)
-
-# Add a horizontal line to separate each person
 st.markdown("---")
 
+# Shared Activity Exploration
 st.markdown("<div style='text-align: center;'>"
-      "<h3 style='color: #19A7CE'>Shared Activity Exploration</h3>"
-      "</div>", unsafe_allow_html=True)
+            "<h3 style='color: #19A7CE'>Shared Activity Exploration</h3>"
+            "</div>", unsafe_allow_html=True)
 
-
-# Create 3 columns with equal width
-col1, col2, col3 = st.columns(3)
-
-# Place the duration plot in the first column
-with col1:
-  st.markdown(
+# Duration Metrics Section
+st.markdown(
     """
+    <style>
+    /* Custom CSS to change the font color of metric labels and values to dark gray */
+    .stMetricLabel {
+        color: #333333 !important;  /* Dark gray color */
+    }
+    .stMetricValue {
+        color: #333333 !important;  /* Dark gray color */
+    }
+    </style>
+
     <div style='
-      background-color: #19A7CE;
-      border-radius: 10px;
-      padding: 20px;
-      margin: 10px;
+        background-color: #19A7CE;
+        border-radius: 10px;
+        padding: 20px;
+        margin: 10px;
+        text-align: center;
     '>
-    <p style='text-align: center; font-weight: bold; color: white; color: white'>How Much Time Do We Spend on Different Activities Every Day? (In Hours)</p>
+    <p style='font-weight: bold; color: white'>How Much Time Do We Spend on Different Activities Every Day? (In Hours and Minutes)</p>
+    </div>
     """
     , unsafe_allow_html=True
-  )
-  df_duration = df.groupby("Category")["Duration in minutes"].sum().reset_index()
-  df_duration = df_duration.sort_values(by="Duration in minutes", ascending=False).head(7)
-  df_duration["Duration in hours"] = (df_duration["Duration in minutes"] / 60 / df["Person"].nunique() / df["Date"].nunique()).round(0).astype(int)
-  fig_duration = px.pie(df_duration, values="Duration in hours", names="Category", hole=0.4)
-  fig_duration.update_traces(textinfo="value+label")
-  fig_duration.update_layout(showlegend=False, autosize=True, width=400, height=400)
-  st.plotly_chart(fig_duration)
+)
+
+df_duration = df.groupby("Category")["Duration in minutes"].sum().reset_index()
+df_duration = df_duration.sort_values(by="Duration in minutes", ascending=False).head(7)
+
+metric_cols = st.columns(len(df_duration))
+for col, row in zip(metric_cols, df_duration.itertuples()):
+    total_minutes = row._2 / df["Person"].nunique() / df["Date"].nunique()
+    hours = int(total_minutes // 60)
+    minutes = int(total_minutes % 60)
+    col.metric(label=row.Category, value=f"{hours} hrs {minutes} min")
+
+style_metric_cards(background_color="#FFFFFF", border_left_color="#686664", border_color="#000000", box_shadow="#F71938")
+
+# Create 2 columns with equal width
+col1, col2 = st.columns(2)
 
 # Place the value plot in the second column
-with col2:
+with col1:
   st.markdown(
     """
     <div style='
@@ -72,7 +87,7 @@ with col2:
   st.plotly_chart(fig_value)
 
 # Group the data by category and how they felt
-with col3:
+with col2:
   st.markdown(
     """
     <div style='
@@ -192,9 +207,28 @@ for person in df["Person"].unique():
     # Group the data by category and how the person felt in the loop
     grouped_person = df_person.groupby(["Category", "How they felt"]).size().reset_index(name="Count")
     most_common_person = grouped_person.loc[grouped_person.groupby("Category")["Count"].idxmax()]
-    most_common_person = most_common_person.sort_values(by="Count", ascending=False)
-    fig_person = px.bar(most_common_person, x="Category", y="Count", color="How they felt")
+
+    # Calculate the total counts for each category
+    total_counts = grouped_person.groupby('Category')['Count'].sum().reset_index()
+
+    # Sort categories by total counts in descending order to get the order
+    sorted_categories = total_counts.sort_values(by='Count', ascending=False)['Category']
+
+    # Create a categorical data type with the categories in the order you want
+    most_common_person['Category'] = pd.Categorical(most_common_person['Category'], 
+                                                    categories=sorted_categories, 
+                                                    ordered=True)
+
+    # Now sort the dataframe based on this categorical datatype
+    most_common_person.sort_values('Category', inplace=True)
+
+    # Plot the sorted data
+    fig_person = px.bar(most_common_person, x='Category', y='Count', color='How they felt')
+
+    # Update layout
     fig_person.update_layout(autosize=True, width=400, height=400)
+
+    # Display the plot
     st.plotly_chart(fig_person)
     st.markdown(
     """
@@ -207,7 +241,8 @@ for person in df["Person"].unique():
     <p style='text-align: center; font-weight: bold; color: white'>What Dominant Emotions Do They Experience During Different Activities?</p>
     """
     , unsafe_allow_html=True
-  )
+    )
+
   
   # Add a horizontal line to separate each person
   st.markdown("---")
