@@ -83,7 +83,7 @@ with col1:
   df_value = df.groupby("Category")["Value to the person"].mean().reset_index()
   fig_value = px.pie(df_value, values="Value to the person", names="Category", hole=0.4)
   fig_value.update_traces(textinfo="percent+label")
-  fig_value.update_layout(showlegend=False, autosize=True, width=400, height=400)
+  fig_value.update_layout(showlegend=False, autosize=True)  # Set width to col2.width
   st.plotly_chart(fig_value)
 
 # Group the data by category and how they felt
@@ -104,7 +104,7 @@ with col2:
   most_common = grouped.loc[grouped.groupby("Category")["Count"].idxmax()]
   most_common = most_common.sort_values(by="Count", ascending=False)
   fig = px.bar(most_common, x="Category", y="Count", color="How they felt")
-  fig.update_layout(autosize=True, width=400, height=400)
+  fig.update_layout(autosize=True)
   most_common = most_common.sort_values(by="Count", ascending=False) # sort in descending order
   st.plotly_chart(fig)
 
@@ -247,3 +247,5 @@ for person in df["Person"].unique():
   # Add a horizontal line to separate each person
   st.markdown("---")
 
+# Create a list of team members in a paragraph element colored 19A7CE
+st.markdown("<p style='text-align: center; color: #19A7CE'>IT 365 - G1- Group 12 - Facul Team<br>Members:<br>Badilla, Mark Kenneth S. - Leader<br>Restauro, Hannah Dylene B.<br>Villanueva, Richelle</p>", unsafe_allow_html=True)
